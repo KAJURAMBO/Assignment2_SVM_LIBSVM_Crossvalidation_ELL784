@@ -1,0 +1,18 @@
+best parameter [0.125, 0.25, 1, 3, 100.0]
+worst parameter [0.125, 0.00390625, 1, 2, 10.541666666666668]
+Testing on best parameter
+Train accurecy for best parameter
+Accuracy = 100% (2400/2400) (classification)
+Test accurecy for best parameter
+Accuracy = 93.5% (561/600) (classification)
+Testing on worst parameter
+Train accurecy for worst parameter
+Accuracy = 10.5417% (253/2400) (classification)
+Test accurecy for worst parameter
+Accuracy = 7.83333% (47/600) (classification)
+Time to Train(sec)= 13950405.702114105
+
+reference-https://www.youtube.com/watch?v=eXjWSU1G14A   ## CV
+          https://www.youtube.com/watch?v=3F0ePcwm_YU   ## LIBSVM
+          https://docs.w3cub.com/scikit_learn/auto_examples/calibration/plot_calibration#sphx-glr-auto-examples-calibration-plot-calibration-py
+          https://www.csie.ntu.edu.tw/~cjlin/libsvm/
