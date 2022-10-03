@@ -1,0 +1,13 @@
+best parameter [2.0, 2.0, 1, 2, 100.0]
+worst parameter [16.0, 16.0, 3, 1, 25.94642857142857]
+Testing on best parameter
+Train accurecy for best parameter
+Accuracy = 100% (5600/5600) (classification)
+Test accurecy for best parameter
+Accuracy = 93.9167% (2254/2400) (classification)
+Testing on worst parameter
+Train accurecy for worst parameter
+Accuracy = 25.9464% (1453/5600) (classification)
+Test accurecy for worst parameter
+Accuracy = 28.375% (681/2400) (classification)
+Time to Train(sec)= 3315315.100669861

@@ -1,0 +1,1793 @@
+C=1,gamma=1,kernaltype=0,degree=1
+Accuracy = 93.5893% (5241/5600) (classification)
+Accuracy = 90.9167% (2182/2400) (classification)
+Test accuracy= (90.91666666666667, 1.57, 0.8234643978005887)
+C=1,gamma=1,kernaltype=0,degree=2
+Accuracy = 93.5893% (5241/5600) (classification)
+Accuracy = 90.9167% (2182/2400) (classification)
+Test accuracy= (90.91666666666667, 1.57, 0.8234643978005887)
+C=1,gamma=1,kernaltype=0,degree=3
+Accuracy = 93.5893% (5241/5600) (classification)
+Accuracy = 90.9167% (2182/2400) (classification)
+Test accuracy= (90.91666666666667, 1.57, 0.8234643978005887)
+C=1,gamma=1,kernaltype=0,degree=4
+Accuracy = 93.5893% (5241/5600) (classification)
+Accuracy = 90.9167% (2182/2400) (classification)
+Test accuracy= (90.91666666666667, 1.57, 0.8234643978005887)
+C=1,gamma=1,kernaltype=0,degree=5
+Accuracy = 93.5893% (5241/5600) (classification)
+Accuracy = 90.9167% (2182/2400) (classification)
+Test accuracy= (90.91666666666667, 1.57, 0.8234643978005887)
+C=1,gamma=1,kernaltype=0,degree=6
+Accuracy = 93.5893% (5241/5600) (classification)
+Accuracy = 90.9167% (2182/2400) (classification)
+Test accuracy= (90.91666666666667, 1.57, 0.8234643978005887)
+C=1,gamma=1,kernaltype=0,degree=7
+Accuracy = 93.5893% (5241/5600) (classification)
+Accuracy = 90.9167% (2182/2400) (classification)
+Test accuracy= (90.91666666666667, 1.57, 0.8234643978005887)
+C=1,gamma=1,kernaltype=1,degree=1
+Accuracy = 93.6429% (5244/5600) (classification)
+Accuracy = 90.75% (2178/2400) (classification)
+Test accuracy= (90.75, 1.6220833333333333, 0.8176527019412904)
+C=1,gamma=1,kernaltype=1,degree=2
+Accuracy = 100% (5600/5600) (classification)
+Accuracy = 93.9167% (2254/2400) (classification)
+Test accuracy= (93.91666666666667, 1.22625, 0.8611846017835733)
+C=1,gamma=1,kernaltype=1,degree=3
+Accuracy = 100% (5600/5600) (classification)
+Accuracy = 94.875% (2277/2400) (classification)
+Test accuracy= (94.875, 0.93375, 0.8932509974373548)
+C=1,gamma=1,kernaltype=1,degree=4
+Accuracy = 100% (5600/5600) (classification)
+Accuracy = 93.9583% (2255/2400) (classification)
+Test accuracy= (93.95833333333333, 1.0420833333333333, 0.881558595314395)
+C=1,gamma=1,kernaltype=1,degree=5
+Accuracy = 100% (5600/5600) (classification)
+Accuracy = 94.0417% (2257/2400) (classification)
+Test accuracy= (94.04166666666667, 1.1091666666666666, 0.8749892854678618)
+C=1,gamma=1,kernaltype=1,degree=6
+Accuracy = 100% (5600/5600) (classification)
+Accuracy = 91.5% (2196/2400) (classification)
+Test accuracy= (91.5, 1.4991666666666668, 0.8337122266478244)
+C=1,gamma=1,kernaltype=1,degree=7
+Accuracy = 100% (5600/5600) (classification)
+Accuracy = 90.625% (2175/2400) (classification)
+Test accuracy= (90.625, 1.7525, 0.8085826366189424)
+C=1,gamma=1,kernaltype=2,degree=1
+Accuracy = 100% (5600/5600) (classification)
+Accuracy = 17.7083% (425/2400) (classification)
+Test accuracy= (17.708333333333336, 12.188333333333333, 0.11254837033963241)
+C=1,gamma=1,kernaltype=2,degree=2
+Accuracy = 100% (5600/5600) (classification)
+Accuracy = 17.7083% (425/2400) (classification)
+Test accuracy= (17.708333333333336, 12.188333333333333, 0.11254837033963241)
+C=1,gamma=1,kernaltype=2,degree=3
+Accuracy = 100% (5600/5600) (classification)
+Accuracy = 17.7083% (425/2400) (classification)
+Test accuracy= (17.708333333333336, 12.188333333333333, 0.11254837033963241)
+C=1,gamma=1,kernaltype=2,degree=4
+Accuracy = 100% (5600/5600) (classification)
+Accuracy = 17.7083% (425/2400) (classification)
+Test accuracy= (17.708333333333336, 12.188333333333333, 0.11254837033963241)
+C=1,gamma=1,kernaltype=2,degree=5
+Accuracy = 100% (5600/5600) (classification)
+Accuracy = 17.7083% (425/2400) (classification)
+Test accuracy= (17.708333333333336, 12.188333333333333, 0.11254837033963241)
+C=1,gamma=1,kernaltype=2,degree=6
+Accuracy = 100% (5600/5600) (classification)
+Accuracy = 17.7083% (425/2400) (classification)
+Test accuracy= (17.708333333333336, 12.188333333333333, 0.11254837033963241)
+C=1,gamma=1,kernaltype=2,degree=7
+Accuracy = 100% (5600/5600) (classification)
+Accuracy = 17.7083% (425/2400) (classification)
+Test accuracy= (17.708333333333336, 12.188333333333333, 0.11254837033963241)
+C=1,gamma=1,kernaltype=3,degree=1
+Accuracy = 26.5714% (1488/5600) (classification)
+Accuracy = 28.1667% (676/2400) (classification)
+Test accuracy= (28.166666666666668, 13.363333333333333, 0.0557830210653668)
+C=1,gamma=1,kernaltype=3,degree=2
+Accuracy = 26.5714% (1488/5600) (classification)
+Accuracy = 28.1667% (676/2400) (classification)
+Test accuracy= (28.166666666666668, 13.363333333333333, 0.0557830210653668)
+C=1,gamma=1,kernaltype=3,degree=3
+Accuracy = 26.5714% (1488/5600) (classification)
+Accuracy = 28.1667% (676/2400) (classification)
+Test accuracy= (28.166666666666668, 13.363333333333333, 0.0557830210653668)
+C=1,gamma=1,kernaltype=3,degree=4
+Accuracy = 26.5714% (1488/5600) (classification)
+Accuracy = 28.1667% (676/2400) (classification)
+Test accuracy= (28.166666666666668, 13.363333333333333, 0.0557830210653668)
+C=1,gamma=1,kernaltype=3,degree=5
+Accuracy = 26.5714% (1488/5600) (classification)
+Accuracy = 28.1667% (676/2400) (classification)
+Test accuracy= (28.166666666666668, 13.363333333333333, 0.0557830210653668)
+C=1,gamma=1,kernaltype=3,degree=6
+Accuracy = 26.5714% (1488/5600) (classification)
+Accuracy = 28.1667% (676/2400) (classification)
+Test accuracy= (28.166666666666668, 13.363333333333333, 0.0557830210653668)
+C=1,gamma=1,kernaltype=3,degree=7
+Accuracy = 26.5714% (1488/5600) (classification)
+Accuracy = 28.1667% (676/2400) (classification)
+Test accuracy= (28.166666666666668, 13.363333333333333, 0.0557830210653668)
+C=1,gamma=2,kernaltype=0,degree=1
+Accuracy = 93.5893% (5241/5600) (classification)
+Accuracy = 90.9167% (2182/2400) (classification)
+Test accuracy= (90.91666666666667, 1.57, 0.8234643978005887)
+C=1,gamma=2,kernaltype=0,degree=2
+Accuracy = 93.5893% (5241/5600) (classification)
+Accuracy = 90.9167% (2182/2400) (classification)
+Test accuracy= (90.91666666666667, 1.57, 0.8234643978005887)
+C=1,gamma=2,kernaltype=0,degree=3
+Accuracy = 93.5893% (5241/5600) (classification)
+Accuracy = 90.9167% (2182/2400) (classification)
+Test accuracy= (90.91666666666667, 1.57, 0.8234643978005887)
+C=1,gamma=2,kernaltype=0,degree=4
+Accuracy = 93.5893% (5241/5600) (classification)
+Accuracy = 90.9167% (2182/2400) (classification)
+Test accuracy= (90.91666666666667, 1.57, 0.8234643978005887)
+C=1,gamma=2,kernaltype=0,degree=5
+Accuracy = 93.5893% (5241/5600) (classification)
+Accuracy = 90.9167% (2182/2400) (classification)
+Test accuracy= (90.91666666666667, 1.57, 0.8234643978005887)
+C=1,gamma=2,kernaltype=0,degree=6
+Accuracy = 93.5893% (5241/5600) (classification)
+Accuracy = 90.9167% (2182/2400) (classification)
+Test accuracy= (90.91666666666667, 1.57, 0.8234643978005887)
+C=1,gamma=2,kernaltype=0,degree=7
+Accuracy = 93.5893% (5241/5600) (classification)
+Accuracy = 90.9167% (2182/2400) (classification)
+Test accuracy= (90.91666666666667, 1.57, 0.8234643978005887)
+C=1,gamma=2,kernaltype=1,degree=1
+Accuracy = 93.7857% (5252/5600) (classification)
+Accuracy = 90.875% (2181/2400) (classification)
+Test accuracy= (90.875, 1.6508333333333334, 0.8144980399669767)
+C=1,gamma=2,kernaltype=1,degree=2
+Accuracy = 100% (5600/5600) (classification)
+Accuracy = 93.9167% (2254/2400) (classification)
+Test accuracy= (93.91666666666667, 1.22625, 0.8611846017835733)
+C=1,gamma=2,kernaltype=1,degree=3
+Accuracy = 100% (5600/5600) (classification)
+Accuracy = 94.875% (2277/2400) (classification)
+Test accuracy= (94.875, 0.93375, 0.8932509974373548)
+C=1,gamma=2,kernaltype=1,degree=4
+Accuracy = 100% (5600/5600) (classification)
+Accuracy = 93.9583% (2255/2400) (classification)
+Test accuracy= (93.95833333333333, 1.0420833333333333, 0.881558595314395)
+C=1,gamma=2,kernaltype=1,degree=5
+Accuracy = 100% (5600/5600) (classification)
+Accuracy = 94.0417% (2257/2400) (classification)
+Test accuracy= (94.04166666666667, 1.1091666666666666, 0.8749892854678618)
+C=1,gamma=2,kernaltype=1,degree=6
+Accuracy = 100% (5600/5600) (classification)
+Accuracy = 91.5% (2196/2400) (classification)
+Test accuracy= (91.5, 1.4991666666666668, 0.8337122266478244)
+C=1,gamma=2,kernaltype=1,degree=7
+Accuracy = 100% (5600/5600) (classification)
+Accuracy = 90.625% (2175/2400) (classification)
+Test accuracy= (90.625, 1.7525, 0.8085826366189424)
+C=1,gamma=2,kernaltype=2,degree=1
+Accuracy = 100% (5600/5600) (classification)
+Accuracy = 17.4583% (419/2400) (classification)
+Test accuracy= (17.458333333333336, 12.22625, 0.11105010414008007)
+C=1,gamma=2,kernaltype=2,degree=2
+Accuracy = 100% (5600/5600) (classification)
+Accuracy = 17.4583% (419/2400) (classification)
+Test accuracy= (17.458333333333336, 12.22625, 0.11105010414008007)
+C=1,gamma=2,kernaltype=2,degree=3
+Accuracy = 100% (5600/5600) (classification)
+Accuracy = 17.4583% (419/2400) (classification)
+Test accuracy= (17.458333333333336, 12.22625, 0.11105010414008007)
+C=1,gamma=2,kernaltype=2,degree=4
+Accuracy = 100% (5600/5600) (classification)
+Accuracy = 17.4583% (419/2400) (classification)
+Test accuracy= (17.458333333333336, 12.22625, 0.11105010414008007)
+C=1,gamma=2,kernaltype=2,degree=5
+Accuracy = 100% (5600/5600) (classification)
+Accuracy = 17.4583% (419/2400) (classification)
+Test accuracy= (17.458333333333336, 12.22625, 0.11105010414008007)
+C=1,gamma=2,kernaltype=2,degree=6
+Accuracy = 100% (5600/5600) (classification)
+Accuracy = 17.4583% (419/2400) (classification)
+Test accuracy= (17.458333333333336, 12.22625, 0.11105010414008007)
+C=1,gamma=2,kernaltype=2,degree=7
+Accuracy = 100% (5600/5600) (classification)
+Accuracy = 17.4583% (419/2400) (classification)
+Test accuracy= (17.458333333333336, 12.22625, 0.11105010414008007)
+C=1,gamma=2,kernaltype=3,degree=1
+Accuracy = 26.5179% (1485/5600) (classification)
+Accuracy = 28.2083% (677/2400) (classification)
+Test accuracy= (28.208333333333336, 13.828333333333333, 0.046696748384496514)
+C=1,gamma=2,kernaltype=3,degree=2
+Accuracy = 26.5179% (1485/5600) (classification)
+Accuracy = 28.2083% (677/2400) (classification)
+Test accuracy= (28.208333333333336, 13.828333333333333, 0.046696748384496514)
+C=1,gamma=2,kernaltype=3,degree=3
+Accuracy = 26.5179% (1485/5600) (classification)
+Accuracy = 28.2083% (677/2400) (classification)
+Test accuracy= (28.208333333333336, 13.828333333333333, 0.046696748384496514)
+C=1,gamma=2,kernaltype=3,degree=4
+Accuracy = 26.5179% (1485/5600) (classification)
+Accuracy = 28.2083% (677/2400) (classification)
+Test accuracy= (28.208333333333336, 13.828333333333333, 0.046696748384496514)
+C=1,gamma=2,kernaltype=3,degree=5
+Accuracy = 26.5179% (1485/5600) (classification)
+Accuracy = 28.2083% (677/2400) (classification)
+Test accuracy= (28.208333333333336, 13.828333333333333, 0.046696748384496514)
+C=1,gamma=2,kernaltype=3,degree=6
+Accuracy = 26.5179% (1485/5600) (classification)
+Accuracy = 28.2083% (677/2400) (classification)
+Test accuracy= (28.208333333333336, 13.828333333333333, 0.046696748384496514)
+C=1,gamma=2,kernaltype=3,degree=7
+Accuracy = 26.5179% (1485/5600) (classification)
+Accuracy = 28.2083% (677/2400) (classification)
+Test accuracy= (28.208333333333336, 13.828333333333333, 0.046696748384496514)
+C=1,gamma=3,kernaltype=0,degree=1
+Accuracy = 93.5893% (5241/5600) (classification)
+Accuracy = 90.9167% (2182/2400) (classification)
+Test accuracy= (90.91666666666667, 1.57, 0.8234643978005887)
+C=1,gamma=3,kernaltype=0,degree=2
+Accuracy = 93.5893% (5241/5600) (classification)
+Accuracy = 90.9167% (2182/2400) (classification)
+Test accuracy= (90.91666666666667, 1.57, 0.8234643978005887)
+C=1,gamma=3,kernaltype=0,degree=3
+Accuracy = 93.5893% (5241/5600) (classification)
+Accuracy = 90.9167% (2182/2400) (classification)
+Test accuracy= (90.91666666666667, 1.57, 0.8234643978005887)
+C=1,gamma=3,kernaltype=0,degree=4
+Accuracy = 93.5893% (5241/5600) (classification)
+Accuracy = 90.9167% (2182/2400) (classification)
+Test accuracy= (90.91666666666667, 1.57, 0.8234643978005887)
+C=1,gamma=3,kernaltype=0,degree=5
+Accuracy = 93.5893% (5241/5600) (classification)
+Accuracy = 90.9167% (2182/2400) (classification)
+Test accuracy= (90.91666666666667, 1.57, 0.8234643978005887)
+C=1,gamma=3,kernaltype=0,degree=6
+Accuracy = 93.5893% (5241/5600) (classification)
+Accuracy = 90.9167% (2182/2400) (classification)
+Test accuracy= (90.91666666666667, 1.57, 0.8234643978005887)
+C=1,gamma=3,kernaltype=0,degree=7
+Accuracy = 93.5893% (5241/5600) (classification)
+Accuracy = 90.9167% (2182/2400) (classification)
+Test accuracy= (90.91666666666667, 1.57, 0.8234643978005887)
+C=1,gamma=3,kernaltype=1,degree=1
+Accuracy = 94.0179% (5265/5600) (classification)
+Accuracy = 90.75% (2178/2400) (classification)
+Test accuracy= (90.75, 1.6029166666666668, 0.8192329744268777)
+C=1,gamma=3,kernaltype=1,degree=2
+Accuracy = 100% (5600/5600) (classification)
+Accuracy = 93.9167% (2254/2400) (classification)
+Test accuracy= (93.91666666666667, 1.22625, 0.8611846017835733)
+C=1,gamma=3,kernaltype=1,degree=3
+Accuracy = 100% (5600/5600) (classification)
+Accuracy = 94.875% (2277/2400) (classification)
+Test accuracy= (94.875, 0.93375, 0.8932509974373548)
+C=1,gamma=3,kernaltype=1,degree=4
+Accuracy = 100% (5600/5600) (classification)
+Accuracy = 93.9583% (2255/2400) (classification)
+Test accuracy= (93.95833333333333, 1.0420833333333333, 0.881558595314395)
+C=1,gamma=3,kernaltype=1,degree=5
+Accuracy = 100% (5600/5600) (classification)
+Accuracy = 94.0417% (2257/2400) (classification)
+Test accuracy= (94.04166666666667, 1.1091666666666666, 0.8749892854678618)
+C=1,gamma=3,kernaltype=1,degree=6
+Accuracy = 100% (5600/5600) (classification)
+Accuracy = 91.5% (2196/2400) (classification)
+Test accuracy= (91.5, 1.4991666666666668, 0.8337122266478244)
+C=1,gamma=3,kernaltype=1,degree=7
+Accuracy = 100% (5600/5600) (classification)
+Accuracy = 90.625% (2175/2400) (classification)
+Test accuracy= (90.625, 1.7525, 0.8085826366189424)
+C=1,gamma=3,kernaltype=2,degree=1
+Accuracy = 100% (5600/5600) (classification)
+Accuracy = 10.5% (252/2400) (classification)
+Test accuracy= (10.5, 20.63625, nan)
+C=1,gamma=3,kernaltype=2,degree=2
+Accuracy = 100% (5600/5600) (classification)
+Accuracy = 10.5% (252/2400) (classification)
+Test accuracy= (10.5, 20.63625, nan)
+C=1,gamma=3,kernaltype=2,degree=3
+Accuracy = 100% (5600/5600) (classification)
+Accuracy = 10.5% (252/2400) (classification)
+Test accuracy= (10.5, 20.63625, nan)
+C=1,gamma=3,kernaltype=2,degree=4
+Accuracy = 100% (5600/5600) (classification)
+Accuracy = 10.5% (252/2400) (classification)
+Test accuracy= (10.5, 20.63625, nan)
+C=1,gamma=3,kernaltype=2,degree=5
+Accuracy = 100% (5600/5600) (classification)
+Accuracy = 10.5% (252/2400) (classification)
+Test accuracy= (10.5, 20.63625, nan)
+C=1,gamma=3,kernaltype=2,degree=6
+Accuracy = 100% (5600/5600) (classification)
+Accuracy = 10.5% (252/2400) (classification)
+Test accuracy= (10.5, 20.63625, nan)
+C=1,gamma=3,kernaltype=2,degree=7
+Accuracy = 100% (5600/5600) (classification)
+Accuracy = 10.5% (252/2400) (classification)
+Test accuracy= (10.5, 20.63625, nan)
+C=1,gamma=3,kernaltype=3,degree=1
+Accuracy = 26.5% (1484/5600) (classification)
+Accuracy = 27.7083% (665/2400) (classification)
+Test accuracy= (27.708333333333336, 13.28, 0.05796821251600211)
+C=1,gamma=3,kernaltype=3,degree=2
+Accuracy = 26.5% (1484/5600) (classification)
+Accuracy = 27.7083% (665/2400) (classification)
+Test accuracy= (27.708333333333336, 13.28, 0.05796821251600211)
+C=1,gamma=3,kernaltype=3,degree=3
+Accuracy = 26.5% (1484/5600) (classification)
+Accuracy = 27.7083% (665/2400) (classification)
+Test accuracy= (27.708333333333336, 13.28, 0.05796821251600211)
+C=1,gamma=3,kernaltype=3,degree=4
+Accuracy = 26.5% (1484/5600) (classification)
+Accuracy = 27.7083% (665/2400) (classification)
+Test accuracy= (27.708333333333336, 13.28, 0.05796821251600211)
+C=1,gamma=3,kernaltype=3,degree=5
+Accuracy = 26.5% (1484/5600) (classification)
+Accuracy = 27.7083% (665/2400) (classification)
+Test accuracy= (27.708333333333336, 13.28, 0.05796821251600211)
+C=1,gamma=3,kernaltype=3,degree=6
+Accuracy = 26.5% (1484/5600) (classification)
+Accuracy = 27.7083% (665/2400) (classification)
+Test accuracy= (27.708333333333336, 13.28, 0.05796821251600211)
+C=1,gamma=3,kernaltype=3,degree=7
+Accuracy = 26.5% (1484/5600) (classification)
+Accuracy = 27.7083% (665/2400) (classification)
+Test accuracy= (27.708333333333336, 13.28, 0.05796821251600211)
+C=1,gamma=4,kernaltype=0,degree=1
+Accuracy = 93.5893% (5241/5600) (classification)
+Accuracy = 90.9167% (2182/2400) (classification)
+Test accuracy= (90.91666666666667, 1.57, 0.8234643978005887)
+C=1,gamma=4,kernaltype=0,degree=2
+Accuracy = 93.5893% (5241/5600) (classification)
+Accuracy = 90.9167% (2182/2400) (classification)
+Test accuracy= (90.91666666666667, 1.57, 0.8234643978005887)
+C=1,gamma=4,kernaltype=0,degree=3
+Accuracy = 93.5893% (5241/5600) (classification)
+Accuracy = 90.9167% (2182/2400) (classification)
+Test accuracy= (90.91666666666667, 1.57, 0.8234643978005887)
+C=1,gamma=4,kernaltype=0,degree=4
+Accuracy = 93.5893% (5241/5600) (classification)
+Accuracy = 90.9167% (2182/2400) (classification)
+Test accuracy= (90.91666666666667, 1.57, 0.8234643978005887)
+C=1,gamma=4,kernaltype=0,degree=5
+Accuracy = 93.5893% (5241/5600) (classification)
+Accuracy = 90.9167% (2182/2400) (classification)
+Test accuracy= (90.91666666666667, 1.57, 0.8234643978005887)
+C=1,gamma=4,kernaltype=0,degree=6
+Accuracy = 93.5893% (5241/5600) (classification)
+Accuracy = 90.9167% (2182/2400) (classification)
+Test accuracy= (90.91666666666667, 1.57, 0.8234643978005887)
+C=1,gamma=4,kernaltype=0,degree=7
+Accuracy = 93.5893% (5241/5600) (classification)
+Accuracy = 90.9167% (2182/2400) (classification)
+Test accuracy= (90.91666666666667, 1.57, 0.8234643978005887)
+C=1,gamma=4,kernaltype=1,degree=1
+Accuracy = 94.0536% (5267/5600) (classification)
+Accuracy = 90.7083% (2177/2400) (classification)
+Test accuracy= (90.70833333333333, 1.57875, 0.8218325691383961)
+C=1,gamma=4,kernaltype=1,degree=2
+Accuracy = 100% (5600/5600) (classification)
+Accuracy = 93.9167% (2254/2400) (classification)
+Test accuracy= (93.91666666666667, 1.22625, 0.8611846017835733)
+C=1,gamma=4,kernaltype=1,degree=3
+Accuracy = 100% (5600/5600) (classification)
+Accuracy = 94.875% (2277/2400) (classification)
+Test accuracy= (94.875, 0.93375, 0.8932509974373548)
+C=1,gamma=4,kernaltype=1,degree=4
+Accuracy = 100% (5600/5600) (classification)
+Accuracy = 93.9583% (2255/2400) (classification)
+Test accuracy= (93.95833333333333, 1.0420833333333333, 0.881558595314395)
+C=1,gamma=4,kernaltype=1,degree=5
+Accuracy = 100% (5600/5600) (classification)
+Accuracy = 94.0417% (2257/2400) (classification)
+Test accuracy= (94.04166666666667, 1.1091666666666666, 0.8749892854678618)
+C=1,gamma=4,kernaltype=1,degree=6
+Accuracy = 100% (5600/5600) (classification)
+Accuracy = 91.5% (2196/2400) (classification)
+Test accuracy= (91.5, 1.4991666666666668, 0.8337122266478244)
+C=1,gamma=4,kernaltype=1,degree=7
+Accuracy = 100% (5600/5600) (classification)
+Accuracy = 90.625% (2175/2400) (classification)
+Test accuracy= (90.625, 1.7525, 0.8085826366189424)
+C=1,gamma=4,kernaltype=2,degree=1
+Accuracy = 100% (5600/5600) (classification)
+Accuracy = 10.5% (252/2400) (classification)
+Test accuracy= (10.5, 20.63625, nan)
+C=1,gamma=4,kernaltype=2,degree=2
+Accuracy = 100% (5600/5600) (classification)
+Accuracy = 10.5% (252/2400) (classification)
+Test accuracy= (10.5, 20.63625, nan)
+C=1,gamma=4,kernaltype=2,degree=3
+Accuracy = 100% (5600/5600) (classification)
+Accuracy = 10.5% (252/2400) (classification)
+Test accuracy= (10.5, 20.63625, nan)
+C=1,gamma=4,kernaltype=2,degree=4
+Accuracy = 100% (5600/5600) (classification)
+Accuracy = 10.5% (252/2400) (classification)
+Test accuracy= (10.5, 20.63625, nan)
+C=1,gamma=4,kernaltype=2,degree=5
+Accuracy = 100% (5600/5600) (classification)
+Accuracy = 10.5% (252/2400) (classification)
+Test accuracy= (10.5, 20.63625, nan)
+C=1,gamma=4,kernaltype=2,degree=6
+Accuracy = 100% (5600/5600) (classification)
+Accuracy = 10.5% (252/2400) (classification)
+Test accuracy= (10.5, 20.63625, nan)
+C=1,gamma=4,kernaltype=2,degree=7
+Accuracy = 100% (5600/5600) (classification)
+Accuracy = 10.5% (252/2400) (classification)
+Test accuracy= (10.5, 20.63625, nan)
+C=1,gamma=4,kernaltype=3,degree=1
+Accuracy = 26.25% (1470/5600) (classification)
+Accuracy = 28.2917% (679/2400) (classification)
+Test accuracy= (28.291666666666664, 13.6375, 0.04983288473484985)
+C=1,gamma=4,kernaltype=3,degree=2
+Accuracy = 26.25% (1470/5600) (classification)
+Accuracy = 28.2917% (679/2400) (classification)
+Test accuracy= (28.291666666666664, 13.6375, 0.04983288473484985)
+C=1,gamma=4,kernaltype=3,degree=3
+Accuracy = 26.25% (1470/5600) (classification)
+Accuracy = 28.2917% (679/2400) (classification)
+Test accuracy= (28.291666666666664, 13.6375, 0.04983288473484985)
+C=1,gamma=4,kernaltype=3,degree=4
+Accuracy = 26.25% (1470/5600) (classification)
+Accuracy = 28.2917% (679/2400) (classification)
+Test accuracy= (28.291666666666664, 13.6375, 0.04983288473484985)
+C=1,gamma=4,kernaltype=3,degree=5
+Accuracy = 26.25% (1470/5600) (classification)
+Accuracy = 28.2917% (679/2400) (classification)
+Test accuracy= (28.291666666666664, 13.6375, 0.04983288473484985)
+C=1,gamma=4,kernaltype=3,degree=6
+Accuracy = 26.25% (1470/5600) (classification)
+Accuracy = 28.2917% (679/2400) (classification)
+Test accuracy= (28.291666666666664, 13.6375, 0.04983288473484985)
+C=1,gamma=4,kernaltype=3,degree=7
+Accuracy = 26.25% (1470/5600) (classification)
+Accuracy = 28.2917% (679/2400) (classification)
+Test accuracy= (28.291666666666664, 13.6375, 0.04983288473484985)
+C=2,gamma=1,kernaltype=0,degree=1
+Accuracy = 93.6429% (5244/5600) (classification)
+Accuracy = 90.75% (2178/2400) (classification)
+Test accuracy= (90.75, 1.6220833333333333, 0.8176527019412904)
+C=2,gamma=1,kernaltype=0,degree=2
+Accuracy = 93.6429% (5244/5600) (classification)
+Accuracy = 90.75% (2178/2400) (classification)
+Test accuracy= (90.75, 1.6220833333333333, 0.8176527019412904)
+C=2,gamma=1,kernaltype=0,degree=3
+Accuracy = 93.6429% (5244/5600) (classification)
+Accuracy = 90.75% (2178/2400) (classification)
+Test accuracy= (90.75, 1.6220833333333333, 0.8176527019412904)
+C=2,gamma=1,kernaltype=0,degree=4
+Accuracy = 93.6429% (5244/5600) (classification)
+Accuracy = 90.75% (2178/2400) (classification)
+Test accuracy= (90.75, 1.6220833333333333, 0.8176527019412904)
+C=2,gamma=1,kernaltype=0,degree=5
+Accuracy = 93.6429% (5244/5600) (classification)
+Accuracy = 90.75% (2178/2400) (classification)
+Test accuracy= (90.75, 1.6220833333333333, 0.8176527019412904)
+C=2,gamma=1,kernaltype=0,degree=6
+Accuracy = 93.6429% (5244/5600) (classification)
+Accuracy = 90.75% (2178/2400) (classification)
+Test accuracy= (90.75, 1.6220833333333333, 0.8176527019412904)
+C=2,gamma=1,kernaltype=0,degree=7
+Accuracy = 93.6429% (5244/5600) (classification)
+Accuracy = 90.75% (2178/2400) (classification)
+Test accuracy= (90.75, 1.6220833333333333, 0.8176527019412904)
+C=2,gamma=1,kernaltype=1,degree=1
+Accuracy = 93.7857% (5252/5600) (classification)
+Accuracy = 90.875% (2181/2400) (classification)
+Test accuracy= (90.875, 1.6508333333333334, 0.8144980399669767)
+C=2,gamma=1,kernaltype=1,degree=2
+Accuracy = 100% (5600/5600) (classification)
+Accuracy = 93.9167% (2254/2400) (classification)
+Test accuracy= (93.91666666666667, 1.22625, 0.8611846017835733)
+C=2,gamma=1,kernaltype=1,degree=3
+Accuracy = 100% (5600/5600) (classification)
+Accuracy = 94.875% (2277/2400) (classification)
+Test accuracy= (94.875, 0.93375, 0.8932509974373548)
+C=2,gamma=1,kernaltype=1,degree=4
+Accuracy = 100% (5600/5600) (classification)
+Accuracy = 93.9583% (2255/2400) (classification)
+Test accuracy= (93.95833333333333, 1.0420833333333333, 0.881558595314395)
+C=2,gamma=1,kernaltype=1,degree=5
+Accuracy = 100% (5600/5600) (classification)
+Accuracy = 94.0417% (2257/2400) (classification)
+Test accuracy= (94.04166666666667, 1.1091666666666666, 0.8749892854678618)
+C=2,gamma=1,kernaltype=1,degree=6
+Accuracy = 100% (5600/5600) (classification)
+Accuracy = 91.5% (2196/2400) (classification)
+Test accuracy= (91.5, 1.4991666666666668, 0.8337122266478244)
+C=2,gamma=1,kernaltype=1,degree=7
+Accuracy = 100% (5600/5600) (classification)
+Accuracy = 90.625% (2175/2400) (classification)
+Test accuracy= (90.625, 1.7525, 0.8085826366189424)
+C=2,gamma=1,kernaltype=2,degree=1
+Accuracy = 100% (5600/5600) (classification)
+Accuracy = 17.7083% (425/2400) (classification)
+Test accuracy= (17.708333333333336, 12.188333333333333, 0.11254837033963241)
+C=2,gamma=1,kernaltype=2,degree=2
+Accuracy = 100% (5600/5600) (classification)
+Accuracy = 17.7083% (425/2400) (classification)
+Test accuracy= (17.708333333333336, 12.188333333333333, 0.11254837033963241)
+C=2,gamma=1,kernaltype=2,degree=3
+Accuracy = 100% (5600/5600) (classification)
+Accuracy = 17.7083% (425/2400) (classification)
+Test accuracy= (17.708333333333336, 12.188333333333333, 0.11254837033963241)
+C=2,gamma=1,kernaltype=2,degree=4
+Accuracy = 100% (5600/5600) (classification)
+Accuracy = 17.7083% (425/2400) (classification)
+Test accuracy= (17.708333333333336, 12.188333333333333, 0.11254837033963241)
+C=2,gamma=1,kernaltype=2,degree=5
+Accuracy = 100% (5600/5600) (classification)
+Accuracy = 17.7083% (425/2400) (classification)
+Test accuracy= (17.708333333333336, 12.188333333333333, 0.11254837033963241)
+C=2,gamma=1,kernaltype=2,degree=6
+Accuracy = 100% (5600/5600) (classification)
+Accuracy = 17.7083% (425/2400) (classification)
+Test accuracy= (17.708333333333336, 12.188333333333333, 0.11254837033963241)
+C=2,gamma=1,kernaltype=2,degree=7
+Accuracy = 100% (5600/5600) (classification)
+Accuracy = 17.7083% (425/2400) (classification)
+Test accuracy= (17.708333333333336, 12.188333333333333, 0.11254837033963241)
+C=2,gamma=1,kernaltype=3,degree=1
+Accuracy = 26.5536% (1487/5600) (classification)
+Accuracy = 28.2917% (679/2400) (classification)
+Test accuracy= (28.291666666666664, 13.2125, 0.0616215553092063)
+C=2,gamma=1,kernaltype=3,degree=2
+Accuracy = 26.5536% (1487/5600) (classification)
+Accuracy = 28.2917% (679/2400) (classification)
+Test accuracy= (28.291666666666664, 13.2125, 0.0616215553092063)
+C=2,gamma=1,kernaltype=3,degree=3
+Accuracy = 26.5536% (1487/5600) (classification)
+Accuracy = 28.2917% (679/2400) (classification)
+Test accuracy= (28.291666666666664, 13.2125, 0.0616215553092063)
+C=2,gamma=1,kernaltype=3,degree=4
+Accuracy = 26.5536% (1487/5600) (classification)
+Accuracy = 28.2917% (679/2400) (classification)
+Test accuracy= (28.291666666666664, 13.2125, 0.0616215553092063)
+C=2,gamma=1,kernaltype=3,degree=5
+Accuracy = 26.5536% (1487/5600) (classification)
+Accuracy = 28.2917% (679/2400) (classification)
+Test accuracy= (28.291666666666664, 13.2125, 0.0616215553092063)
+C=2,gamma=1,kernaltype=3,degree=6
+Accuracy = 26.5536% (1487/5600) (classification)
+Accuracy = 28.2917% (679/2400) (classification)
+Test accuracy= (28.291666666666664, 13.2125, 0.0616215553092063)
+C=2,gamma=1,kernaltype=3,degree=7
+Accuracy = 26.5536% (1487/5600) (classification)
+Accuracy = 28.2917% (679/2400) (classification)
+Test accuracy= (28.291666666666664, 13.2125, 0.0616215553092063)
+C=2,gamma=2,kernaltype=0,degree=1
+Accuracy = 93.6429% (5244/5600) (classification)
+Accuracy = 90.75% (2178/2400) (classification)
+Test accuracy= (90.75, 1.6220833333333333, 0.8176527019412904)
+C=2,gamma=2,kernaltype=0,degree=2
+Accuracy = 93.6429% (5244/5600) (classification)
+Accuracy = 90.75% (2178/2400) (classification)
+Test accuracy= (90.75, 1.6220833333333333, 0.8176527019412904)
+C=2,gamma=2,kernaltype=0,degree=3
+Accuracy = 93.6429% (5244/5600) (classification)
+Accuracy = 90.75% (2178/2400) (classification)
+Test accuracy= (90.75, 1.6220833333333333, 0.8176527019412904)
+C=2,gamma=2,kernaltype=0,degree=4
+Accuracy = 93.6429% (5244/5600) (classification)
+Accuracy = 90.75% (2178/2400) (classification)
+Test accuracy= (90.75, 1.6220833333333333, 0.8176527019412904)
+C=2,gamma=2,kernaltype=0,degree=5
+Accuracy = 93.6429% (5244/5600) (classification)
+Accuracy = 90.75% (2178/2400) (classification)
+Test accuracy= (90.75, 1.6220833333333333, 0.8176527019412904)
+C=2,gamma=2,kernaltype=0,degree=6
+Accuracy = 93.6429% (5244/5600) (classification)
+Accuracy = 90.75% (2178/2400) (classification)
+Test accuracy= (90.75, 1.6220833333333333, 0.8176527019412904)
+C=2,gamma=2,kernaltype=0,degree=7
+Accuracy = 93.6429% (5244/5600) (classification)
+Accuracy = 90.75% (2178/2400) (classification)
+Test accuracy= (90.75, 1.6220833333333333, 0.8176527019412904)
+C=2,gamma=2,kernaltype=1,degree=1
+Accuracy = 94.0179% (5265/5600) (classification)
+Accuracy = 90.75% (2178/2400) (classification)
+Test accuracy= (90.75, 1.6029166666666668, 0.8192329744268777)
+C=2,gamma=2,kernaltype=1,degree=2
+Accuracy = 100% (5600/5600) (classification)
+Accuracy = 93.9167% (2254/2400) (classification)
+Test accuracy= (93.91666666666667, 1.22625, 0.8611846017835733)
+C=2,gamma=2,kernaltype=1,degree=3
+Accuracy = 100% (5600/5600) (classification)
+Accuracy = 94.875% (2277/2400) (classification)
+Test accuracy= (94.875, 0.93375, 0.8932509974373548)
+C=2,gamma=2,kernaltype=1,degree=4
+Accuracy = 100% (5600/5600) (classification)
+Accuracy = 93.9583% (2255/2400) (classification)
+Test accuracy= (93.95833333333333, 1.0420833333333333, 0.881558595314395)
+C=2,gamma=2,kernaltype=1,degree=5
+Accuracy = 100% (5600/5600) (classification)
+Accuracy = 94.0417% (2257/2400) (classification)
+Test accuracy= (94.04166666666667, 1.1091666666666666, 0.8749892854678618)
+C=2,gamma=2,kernaltype=1,degree=6
+Accuracy = 100% (5600/5600) (classification)
+Accuracy = 91.5% (2196/2400) (classification)
+Test accuracy= (91.5, 1.4991666666666668, 0.8337122266478244)
+C=2,gamma=2,kernaltype=1,degree=7
+Accuracy = 100% (5600/5600) (classification)
+Accuracy = 90.625% (2175/2400) (classification)
+Test accuracy= (90.625, 1.7525, 0.8085826366189424)
+C=2,gamma=2,kernaltype=2,degree=1
+Accuracy = 100% (5600/5600) (classification)
+Accuracy = 17.4583% (419/2400) (classification)
+Test accuracy= (17.458333333333336, 12.22625, 0.11105010414008007)
+C=2,gamma=2,kernaltype=2,degree=2
+Accuracy = 100% (5600/5600) (classification)
+Accuracy = 17.4583% (419/2400) (classification)
+Test accuracy= (17.458333333333336, 12.22625, 0.11105010414008007)
+C=2,gamma=2,kernaltype=2,degree=3
+Accuracy = 100% (5600/5600) (classification)
+Accuracy = 17.4583% (419/2400) (classification)
+Test accuracy= (17.458333333333336, 12.22625, 0.11105010414008007)
+C=2,gamma=2,kernaltype=2,degree=4
+Accuracy = 100% (5600/5600) (classification)
+Accuracy = 17.4583% (419/2400) (classification)
+Test accuracy= (17.458333333333336, 12.22625, 0.11105010414008007)
+C=2,gamma=2,kernaltype=2,degree=5
+Accuracy = 100% (5600/5600) (classification)
+Accuracy = 17.4583% (419/2400) (classification)
+Test accuracy= (17.458333333333336, 12.22625, 0.11105010414008007)
+C=2,gamma=2,kernaltype=2,degree=6
+Accuracy = 100% (5600/5600) (classification)
+Accuracy = 17.4583% (419/2400) (classification)
+Test accuracy= (17.458333333333336, 12.22625, 0.11105010414008007)
+C=2,gamma=2,kernaltype=2,degree=7
+Accuracy = 100% (5600/5600) (classification)
+Accuracy = 17.4583% (419/2400) (classification)
+Test accuracy= (17.458333333333336, 12.22625, 0.11105010414008007)
+C=2,gamma=2,kernaltype=3,degree=1
+Accuracy = 26.4107% (1479/5600) (classification)
+Accuracy = 27.7917% (667/2400) (classification)
+Test accuracy= (27.791666666666664, 13.876666666666667, 0.04424931746604391)
+C=2,gamma=2,kernaltype=3,degree=2
+Accuracy = 26.4107% (1479/5600) (classification)
+Accuracy = 27.7917% (667/2400) (classification)
+Test accuracy= (27.791666666666664, 13.876666666666667, 0.04424931746604391)
+C=2,gamma=2,kernaltype=3,degree=3
+Accuracy = 26.4107% (1479/5600) (classification)
+Accuracy = 27.7917% (667/2400) (classification)
+Test accuracy= (27.791666666666664, 13.876666666666667, 0.04424931746604391)
+C=2,gamma=2,kernaltype=3,degree=4
+Accuracy = 26.4107% (1479/5600) (classification)
+Accuracy = 27.7917% (667/2400) (classification)
+Test accuracy= (27.791666666666664, 13.876666666666667, 0.04424931746604391)
+C=2,gamma=2,kernaltype=3,degree=5
+Accuracy = 26.4107% (1479/5600) (classification)
+Accuracy = 27.7917% (667/2400) (classification)
+Test accuracy= (27.791666666666664, 13.876666666666667, 0.04424931746604391)
+C=2,gamma=2,kernaltype=3,degree=6
+Accuracy = 26.4107% (1479/5600) (classification)
+Accuracy = 27.7917% (667/2400) (classification)
+Test accuracy= (27.791666666666664, 13.876666666666667, 0.04424931746604391)
+C=2,gamma=2,kernaltype=3,degree=7
+Accuracy = 26.4107% (1479/5600) (classification)
+Accuracy = 27.7917% (667/2400) (classification)
+Test accuracy= (27.791666666666664, 13.876666666666667, 0.04424931746604391)
+C=2,gamma=3,kernaltype=0,degree=1
+Accuracy = 93.6429% (5244/5600) (classification)
+Accuracy = 90.75% (2178/2400) (classification)
+Test accuracy= (90.75, 1.6220833333333333, 0.8176527019412904)
+C=2,gamma=3,kernaltype=0,degree=2
+Accuracy = 93.6429% (5244/5600) (classification)
+Accuracy = 90.75% (2178/2400) (classification)
+Test accuracy= (90.75, 1.6220833333333333, 0.8176527019412904)
+C=2,gamma=3,kernaltype=0,degree=3
+Accuracy = 93.6429% (5244/5600) (classification)
+Accuracy = 90.75% (2178/2400) (classification)
+Test accuracy= (90.75, 1.6220833333333333, 0.8176527019412904)
+C=2,gamma=3,kernaltype=0,degree=4
+Accuracy = 93.6429% (5244/5600) (classification)
+Accuracy = 90.75% (2178/2400) (classification)
+Test accuracy= (90.75, 1.6220833333333333, 0.8176527019412904)
+C=2,gamma=3,kernaltype=0,degree=5
+Accuracy = 93.6429% (5244/5600) (classification)
+Accuracy = 90.75% (2178/2400) (classification)
+Test accuracy= (90.75, 1.6220833333333333, 0.8176527019412904)
+C=2,gamma=3,kernaltype=0,degree=6
+Accuracy = 93.6429% (5244/5600) (classification)
+Accuracy = 90.75% (2178/2400) (classification)
+Test accuracy= (90.75, 1.6220833333333333, 0.8176527019412904)
+C=2,gamma=3,kernaltype=0,degree=7
+Accuracy = 93.6429% (5244/5600) (classification)
+Accuracy = 90.75% (2178/2400) (classification)
+Test accuracy= (90.75, 1.6220833333333333, 0.8176527019412904)
+C=2,gamma=3,kernaltype=1,degree=1
+Accuracy = 94.0536% (5267/5600) (classification)
+Accuracy = 90.7083% (2177/2400) (classification)
+Test accuracy= (90.70833333333333, 1.57875, 0.8218325691383961)
+C=2,gamma=3,kernaltype=1,degree=2
+Accuracy = 100% (5600/5600) (classification)
+Accuracy = 93.9167% (2254/2400) (classification)
+Test accuracy= (93.91666666666667, 1.22625, 0.8611846017835733)
+C=2,gamma=3,kernaltype=1,degree=3
+Accuracy = 100% (5600/5600) (classification)
+Accuracy = 94.875% (2277/2400) (classification)
+Test accuracy= (94.875, 0.93375, 0.8932509974373548)
+C=2,gamma=3,kernaltype=1,degree=4
+Accuracy = 100% (5600/5600) (classification)
+Accuracy = 93.9583% (2255/2400) (classification)
+Test accuracy= (93.95833333333333, 1.0420833333333333, 0.881558595314395)
+C=2,gamma=3,kernaltype=1,degree=5
+Accuracy = 100% (5600/5600) (classification)
+Accuracy = 94.0417% (2257/2400) (classification)
+Test accuracy= (94.04166666666667, 1.1091666666666666, 0.8749892854678618)
+C=2,gamma=3,kernaltype=1,degree=6
+Accuracy = 100% (5600/5600) (classification)
+Accuracy = 91.5% (2196/2400) (classification)
+Test accuracy= (91.5, 1.4991666666666668, 0.8337122266478244)
+C=2,gamma=3,kernaltype=1,degree=7
+Accuracy = 100% (5600/5600) (classification)
+Accuracy = 90.625% (2175/2400) (classification)
+Test accuracy= (90.625, 1.7525, 0.8085826366189424)
+C=2,gamma=3,kernaltype=2,degree=1
+Accuracy = 100% (5600/5600) (classification)
+Accuracy = 10.5% (252/2400) (classification)
+Test accuracy= (10.5, 20.63625, nan)
+C=2,gamma=3,kernaltype=2,degree=2
+Accuracy = 100% (5600/5600) (classification)
+Accuracy = 10.5% (252/2400) (classification)
+Test accuracy= (10.5, 20.63625, nan)
+C=2,gamma=3,kernaltype=2,degree=3
+Accuracy = 100% (5600/5600) (classification)
+Accuracy = 10.5% (252/2400) (classification)
+Test accuracy= (10.5, 20.63625, nan)
+C=2,gamma=3,kernaltype=2,degree=4
+Accuracy = 100% (5600/5600) (classification)
+Accuracy = 10.5% (252/2400) (classification)
+Test accuracy= (10.5, 20.63625, nan)
+C=2,gamma=3,kernaltype=2,degree=5
+Accuracy = 100% (5600/5600) (classification)
+Accuracy = 10.5% (252/2400) (classification)
+Test accuracy= (10.5, 20.63625, nan)
+C=2,gamma=3,kernaltype=2,degree=6
+Accuracy = 100% (5600/5600) (classification)
+Accuracy = 10.5% (252/2400) (classification)
+Test accuracy= (10.5, 20.63625, nan)
+C=2,gamma=3,kernaltype=2,degree=7
+Accuracy = 100% (5600/5600) (classification)
+Accuracy = 10.5% (252/2400) (classification)
+Test accuracy= (10.5, 20.63625, nan)
+C=2,gamma=3,kernaltype=3,degree=1
+Accuracy = 26.7679% (1499/5600) (classification)
+Accuracy = 28% (672/2400) (classification)
+Test accuracy= (28.000000000000004, 13.28, 0.05689165117955839)
+C=2,gamma=3,kernaltype=3,degree=2
+Accuracy = 26.7679% (1499/5600) (classification)
+Accuracy = 28% (672/2400) (classification)
+Test accuracy= (28.000000000000004, 13.28, 0.05689165117955839)
+C=2,gamma=3,kernaltype=3,degree=3
+Accuracy = 26.7679% (1499/5600) (classification)
+Accuracy = 28% (672/2400) (classification)
+Test accuracy= (28.000000000000004, 13.28, 0.05689165117955839)
+C=2,gamma=3,kernaltype=3,degree=4
+Accuracy = 26.7679% (1499/5600) (classification)
+Accuracy = 28% (672/2400) (classification)
+Test accuracy= (28.000000000000004, 13.28, 0.05689165117955839)
+C=2,gamma=3,kernaltype=3,degree=5
+Accuracy = 26.7679% (1499/5600) (classification)
+Accuracy = 28% (672/2400) (classification)
+Test accuracy= (28.000000000000004, 13.28, 0.05689165117955839)
+C=2,gamma=3,kernaltype=3,degree=6
+Accuracy = 26.7679% (1499/5600) (classification)
+Accuracy = 28% (672/2400) (classification)
+Test accuracy= (28.000000000000004, 13.28, 0.05689165117955839)
+C=2,gamma=3,kernaltype=3,degree=7
+Accuracy = 26.7679% (1499/5600) (classification)
+Accuracy = 28% (672/2400) (classification)
+Test accuracy= (28.000000000000004, 13.28, 0.05689165117955839)
+C=2,gamma=4,kernaltype=0,degree=1
+Accuracy = 93.6429% (5244/5600) (classification)
+Accuracy = 90.75% (2178/2400) (classification)
+Test accuracy= (90.75, 1.6220833333333333, 0.8176527019412904)
+C=2,gamma=4,kernaltype=0,degree=2
+Accuracy = 93.6429% (5244/5600) (classification)
+Accuracy = 90.75% (2178/2400) (classification)
+Test accuracy= (90.75, 1.6220833333333333, 0.8176527019412904)
+C=2,gamma=4,kernaltype=0,degree=3
+Accuracy = 93.6429% (5244/5600) (classification)
+Accuracy = 90.75% (2178/2400) (classification)
+Test accuracy= (90.75, 1.6220833333333333, 0.8176527019412904)
+C=2,gamma=4,kernaltype=0,degree=4
+Accuracy = 93.6429% (5244/5600) (classification)
+Accuracy = 90.75% (2178/2400) (classification)
+Test accuracy= (90.75, 1.6220833333333333, 0.8176527019412904)
+C=2,gamma=4,kernaltype=0,degree=5
+Accuracy = 93.6429% (5244/5600) (classification)
+Accuracy = 90.75% (2178/2400) (classification)
+Test accuracy= (90.75, 1.6220833333333333, 0.8176527019412904)
+C=2,gamma=4,kernaltype=0,degree=6
+Accuracy = 93.6429% (5244/5600) (classification)
+Accuracy = 90.75% (2178/2400) (classification)
+Test accuracy= (90.75, 1.6220833333333333, 0.8176527019412904)
+C=2,gamma=4,kernaltype=0,degree=7
+Accuracy = 93.6429% (5244/5600) (classification)
+Accuracy = 90.75% (2178/2400) (classification)
+Test accuracy= (90.75, 1.6220833333333333, 0.8176527019412904)
+C=2,gamma=4,kernaltype=1,degree=1
+Accuracy = 94.0893% (5269/5600) (classification)
+Accuracy = 90.625% (2175/2400) (classification)
+Test accuracy= (90.625, 1.5825, 0.8215070121000133)
+C=2,gamma=4,kernaltype=1,degree=2
+Accuracy = 100% (5600/5600) (classification)
+Accuracy = 93.9167% (2254/2400) (classification)
+Test accuracy= (93.91666666666667, 1.22625, 0.8611846017835733)
+C=2,gamma=4,kernaltype=1,degree=3
+Accuracy = 100% (5600/5600) (classification)
+Accuracy = 94.875% (2277/2400) (classification)
+Test accuracy= (94.875, 0.93375, 0.8932509974373548)
+C=2,gamma=4,kernaltype=1,degree=4
+Accuracy = 100% (5600/5600) (classification)
+Accuracy = 93.9583% (2255/2400) (classification)
+Test accuracy= (93.95833333333333, 1.0420833333333333, 0.881558595314395)
+C=2,gamma=4,kernaltype=1,degree=5
+Accuracy = 100% (5600/5600) (classification)
+Accuracy = 94.0417% (2257/2400) (classification)
+Test accuracy= (94.04166666666667, 1.1091666666666666, 0.8749892854678618)
+C=2,gamma=4,kernaltype=1,degree=6
+Accuracy = 100% (5600/5600) (classification)
+Accuracy = 91.5% (2196/2400) (classification)
+Test accuracy= (91.5, 1.4991666666666668, 0.8337122266478244)
+C=2,gamma=4,kernaltype=1,degree=7
+Accuracy = 100% (5600/5600) (classification)
+Accuracy = 90.625% (2175/2400) (classification)
+Test accuracy= (90.625, 1.7525, 0.8085826366189424)
+C=2,gamma=4,kernaltype=2,degree=1
+Accuracy = 100% (5600/5600) (classification)
+Accuracy = 10.5% (252/2400) (classification)
+Test accuracy= (10.5, 20.63625, nan)
+C=2,gamma=4,kernaltype=2,degree=2
+Accuracy = 100% (5600/5600) (classification)
+Accuracy = 10.5% (252/2400) (classification)
+Test accuracy= (10.5, 20.63625, nan)
+C=2,gamma=4,kernaltype=2,degree=3
+Accuracy = 100% (5600/5600) (classification)
+Accuracy = 10.5% (252/2400) (classification)
+Test accuracy= (10.5, 20.63625, nan)
+C=2,gamma=4,kernaltype=2,degree=4
+Accuracy = 100% (5600/5600) (classification)
+Accuracy = 10.5% (252/2400) (classification)
+Test accuracy= (10.5, 20.63625, nan)
+C=2,gamma=4,kernaltype=2,degree=5
+Accuracy = 100% (5600/5600) (classification)
+Accuracy = 10.5% (252/2400) (classification)
+Test accuracy= (10.5, 20.63625, nan)
+C=2,gamma=4,kernaltype=2,degree=6
+Accuracy = 100% (5600/5600) (classification)
+Accuracy = 10.5% (252/2400) (classification)
+Test accuracy= (10.5, 20.63625, nan)
+C=2,gamma=4,kernaltype=2,degree=7
+Accuracy = 100% (5600/5600) (classification)
+Accuracy = 10.5% (252/2400) (classification)
+Test accuracy= (10.5, 20.63625, nan)
+C=2,gamma=4,kernaltype=3,degree=1
+Accuracy = 26.25% (1470/5600) (classification)
+Accuracy = 28.5417% (685/2400) (classification)
+Test accuracy= (28.541666666666664, 13.80125, 0.04541246914092909)
+C=2,gamma=4,kernaltype=3,degree=2
+Accuracy = 26.25% (1470/5600) (classification)
+Accuracy = 28.5417% (685/2400) (classification)
+Test accuracy= (28.541666666666664, 13.80125, 0.04541246914092909)
+C=2,gamma=4,kernaltype=3,degree=3
+Accuracy = 26.25% (1470/5600) (classification)
+Accuracy = 28.5417% (685/2400) (classification)
+Test accuracy= (28.541666666666664, 13.80125, 0.04541246914092909)
+C=2,gamma=4,kernaltype=3,degree=4
+Accuracy = 26.25% (1470/5600) (classification)
+Accuracy = 28.5417% (685/2400) (classification)
+Test accuracy= (28.541666666666664, 13.80125, 0.04541246914092909)
+C=2,gamma=4,kernaltype=3,degree=5
+Accuracy = 26.25% (1470/5600) (classification)
+Accuracy = 28.5417% (685/2400) (classification)
+Test accuracy= (28.541666666666664, 13.80125, 0.04541246914092909)
+C=2,gamma=4,kernaltype=3,degree=6
+Accuracy = 26.25% (1470/5600) (classification)
+Accuracy = 28.5417% (685/2400) (classification)
+Test accuracy= (28.541666666666664, 13.80125, 0.04541246914092909)
+C=2,gamma=4,kernaltype=3,degree=7
+Accuracy = 26.25% (1470/5600) (classification)
+Accuracy = 28.5417% (685/2400) (classification)
+Test accuracy= (28.541666666666664, 13.80125, 0.04541246914092909)
+C=3,gamma=1,kernaltype=0,degree=1
+Accuracy = 93.7857% (5252/5600) (classification)
+Accuracy = 90.875% (2181/2400) (classification)
+Test accuracy= (90.875, 1.6508333333333334, 0.8144980399669767)
+C=3,gamma=1,kernaltype=0,degree=2
+Accuracy = 93.7857% (5252/5600) (classification)
+Accuracy = 90.875% (2181/2400) (classification)
+Test accuracy= (90.875, 1.6508333333333334, 0.8144980399669767)
+C=3,gamma=1,kernaltype=0,degree=3
+Accuracy = 93.7857% (5252/5600) (classification)
+Accuracy = 90.875% (2181/2400) (classification)
+Test accuracy= (90.875, 1.6508333333333334, 0.8144980399669767)
+C=3,gamma=1,kernaltype=0,degree=4
+Accuracy = 93.7857% (5252/5600) (classification)
+Accuracy = 90.875% (2181/2400) (classification)
+Test accuracy= (90.875, 1.6508333333333334, 0.8144980399669767)
+C=3,gamma=1,kernaltype=0,degree=5
+Accuracy = 93.7857% (5252/5600) (classification)
+Accuracy = 90.875% (2181/2400) (classification)
+Test accuracy= (90.875, 1.6508333333333334, 0.8144980399669767)
+C=3,gamma=1,kernaltype=0,degree=6
+Accuracy = 93.7857% (5252/5600) (classification)
+Accuracy = 90.875% (2181/2400) (classification)
+Test accuracy= (90.875, 1.6508333333333334, 0.8144980399669767)
+C=3,gamma=1,kernaltype=0,degree=7
+Accuracy = 93.7857% (5252/5600) (classification)
+Accuracy = 90.875% (2181/2400) (classification)
+Test accuracy= (90.875, 1.6508333333333334, 0.8144980399669767)
+C=3,gamma=1,kernaltype=1,degree=1
+Accuracy = 94.0179% (5265/5600) (classification)
+Accuracy = 90.75% (2178/2400) (classification)
+Test accuracy= (90.75, 1.6029166666666668, 0.8192329744268777)
+C=3,gamma=1,kernaltype=1,degree=2
+Accuracy = 100% (5600/5600) (classification)
+Accuracy = 93.9167% (2254/2400) (classification)
+Test accuracy= (93.91666666666667, 1.22625, 0.8611846017835733)
+C=3,gamma=1,kernaltype=1,degree=3
+Accuracy = 100% (5600/5600) (classification)
+Accuracy = 94.875% (2277/2400) (classification)
+Test accuracy= (94.875, 0.93375, 0.8932509974373548)
+C=3,gamma=1,kernaltype=1,degree=4
+Accuracy = 100% (5600/5600) (classification)
+Accuracy = 93.9583% (2255/2400) (classification)
+Test accuracy= (93.95833333333333, 1.0420833333333333, 0.881558595314395)
+C=3,gamma=1,kernaltype=1,degree=5
+Accuracy = 100% (5600/5600) (classification)
+Accuracy = 94.0417% (2257/2400) (classification)
+Test accuracy= (94.04166666666667, 1.1091666666666666, 0.8749892854678618)
+C=3,gamma=1,kernaltype=1,degree=6
+Accuracy = 100% (5600/5600) (classification)
+Accuracy = 91.5% (2196/2400) (classification)
+Test accuracy= (91.5, 1.4991666666666668, 0.8337122266478244)
+C=3,gamma=1,kernaltype=1,degree=7
+Accuracy = 100% (5600/5600) (classification)
+Accuracy = 90.625% (2175/2400) (classification)
+Test accuracy= (90.625, 1.7525, 0.8085826366189424)
+C=3,gamma=1,kernaltype=2,degree=1
+Accuracy = 100% (5600/5600) (classification)
+Accuracy = 17.7083% (425/2400) (classification)
+Test accuracy= (17.708333333333336, 12.188333333333333, 0.11254837033963241)
+C=3,gamma=1,kernaltype=2,degree=2
+Accuracy = 100% (5600/5600) (classification)
+Accuracy = 17.7083% (425/2400) (classification)
+Test accuracy= (17.708333333333336, 12.188333333333333, 0.11254837033963241)
+C=3,gamma=1,kernaltype=2,degree=3
+Accuracy = 100% (5600/5600) (classification)
+Accuracy = 17.7083% (425/2400) (classification)
+Test accuracy= (17.708333333333336, 12.188333333333333, 0.11254837033963241)
+C=3,gamma=1,kernaltype=2,degree=4
+Accuracy = 100% (5600/5600) (classification)
+Accuracy = 17.7083% (425/2400) (classification)
+Test accuracy= (17.708333333333336, 12.188333333333333, 0.11254837033963241)
+C=3,gamma=1,kernaltype=2,degree=5
+Accuracy = 100% (5600/5600) (classification)
+Accuracy = 17.7083% (425/2400) (classification)
+Test accuracy= (17.708333333333336, 12.188333333333333, 0.11254837033963241)
+C=3,gamma=1,kernaltype=2,degree=6
+Accuracy = 100% (5600/5600) (classification)
+Accuracy = 17.7083% (425/2400) (classification)
+Test accuracy= (17.708333333333336, 12.188333333333333, 0.11254837033963241)
+C=3,gamma=1,kernaltype=2,degree=7
+Accuracy = 100% (5600/5600) (classification)
+Accuracy = 17.7083% (425/2400) (classification)
+Test accuracy= (17.708333333333336, 12.188333333333333, 0.11254837033963241)
+C=3,gamma=1,kernaltype=3,degree=1
+Accuracy = 26.4643% (1482/5600) (classification)
+Accuracy = 28% (672/2400) (classification)
+Test accuracy= (28.000000000000004, 13.499583333333334, 0.05509341330065025)
+C=3,gamma=1,kernaltype=3,degree=2
+Accuracy = 26.4643% (1482/5600) (classification)
+Accuracy = 28% (672/2400) (classification)
+Test accuracy= (28.000000000000004, 13.499583333333334, 0.05509341330065025)
+C=3,gamma=1,kernaltype=3,degree=3
+Accuracy = 26.4643% (1482/5600) (classification)
+Accuracy = 28% (672/2400) (classification)
+Test accuracy= (28.000000000000004, 13.499583333333334, 0.05509341330065025)
+C=3,gamma=1,kernaltype=3,degree=4
+Accuracy = 26.4643% (1482/5600) (classification)
+Accuracy = 28% (672/2400) (classification)
+Test accuracy= (28.000000000000004, 13.499583333333334, 0.05509341330065025)
+C=3,gamma=1,kernaltype=3,degree=5
+Accuracy = 26.4643% (1482/5600) (classification)
+Accuracy = 28% (672/2400) (classification)
+Test accuracy= (28.000000000000004, 13.499583333333334, 0.05509341330065025)
+C=3,gamma=1,kernaltype=3,degree=6
+Accuracy = 26.4643% (1482/5600) (classification)
+Accuracy = 28% (672/2400) (classification)
+Test accuracy= (28.000000000000004, 13.499583333333334, 0.05509341330065025)
+C=3,gamma=1,kernaltype=3,degree=7
+Accuracy = 26.4643% (1482/5600) (classification)
+Accuracy = 28% (672/2400) (classification)
+Test accuracy= (28.000000000000004, 13.499583333333334, 0.05509341330065025)
+C=3,gamma=2,kernaltype=0,degree=1
+Accuracy = 93.7857% (5252/5600) (classification)
+Accuracy = 90.875% (2181/2400) (classification)
+Test accuracy= (90.875, 1.6508333333333334, 0.8144980399669767)
+C=3,gamma=2,kernaltype=0,degree=2
+Accuracy = 93.7857% (5252/5600) (classification)
+Accuracy = 90.875% (2181/2400) (classification)
+Test accuracy= (90.875, 1.6508333333333334, 0.8144980399669767)
+C=3,gamma=2,kernaltype=0,degree=3
+Accuracy = 93.7857% (5252/5600) (classification)
+Accuracy = 90.875% (2181/2400) (classification)
+Test accuracy= (90.875, 1.6508333333333334, 0.8144980399669767)
+C=3,gamma=2,kernaltype=0,degree=4
+Accuracy = 93.7857% (5252/5600) (classification)
+Accuracy = 90.875% (2181/2400) (classification)
+Test accuracy= (90.875, 1.6508333333333334, 0.8144980399669767)
+C=3,gamma=2,kernaltype=0,degree=5
+Accuracy = 93.7857% (5252/5600) (classification)
+Accuracy = 90.875% (2181/2400) (classification)
+Test accuracy= (90.875, 1.6508333333333334, 0.8144980399669767)
+C=3,gamma=2,kernaltype=0,degree=6
+Accuracy = 93.7857% (5252/5600) (classification)
+Accuracy = 90.875% (2181/2400) (classification)
+Test accuracy= (90.875, 1.6508333333333334, 0.8144980399669767)
+C=3,gamma=2,kernaltype=0,degree=7
+Accuracy = 93.7857% (5252/5600) (classification)
+Accuracy = 90.875% (2181/2400) (classification)
+Test accuracy= (90.875, 1.6508333333333334, 0.8144980399669767)
+C=3,gamma=2,kernaltype=1,degree=1
+Accuracy = 94.0536% (5267/5600) (classification)
+Accuracy = 90.7083% (2177/2400) (classification)
+Test accuracy= (90.70833333333333, 1.57875, 0.8218325691383961)
+C=3,gamma=2,kernaltype=1,degree=2
+Accuracy = 100% (5600/5600) (classification)
+Accuracy = 93.9167% (2254/2400) (classification)
+Test accuracy= (93.91666666666667, 1.22625, 0.8611846017835733)
+C=3,gamma=2,kernaltype=1,degree=3
+Accuracy = 100% (5600/5600) (classification)
+Accuracy = 94.875% (2277/2400) (classification)
+Test accuracy= (94.875, 0.93375, 0.8932509974373548)
+C=3,gamma=2,kernaltype=1,degree=4
+Accuracy = 100% (5600/5600) (classification)
+Accuracy = 93.9583% (2255/2400) (classification)
+Test accuracy= (93.95833333333333, 1.0420833333333333, 0.881558595314395)
+C=3,gamma=2,kernaltype=1,degree=5
+Accuracy = 100% (5600/5600) (classification)
+Accuracy = 94.0417% (2257/2400) (classification)
+Test accuracy= (94.04166666666667, 1.1091666666666666, 0.8749892854678618)
+C=3,gamma=2,kernaltype=1,degree=6
+Accuracy = 100% (5600/5600) (classification)
+Accuracy = 91.5% (2196/2400) (classification)
+Test accuracy= (91.5, 1.4991666666666668, 0.8337122266478244)
+C=3,gamma=2,kernaltype=1,degree=7
+Accuracy = 100% (5600/5600) (classification)
+Accuracy = 90.625% (2175/2400) (classification)
+Test accuracy= (90.625, 1.7525, 0.8085826366189424)
+C=3,gamma=2,kernaltype=2,degree=1
+Accuracy = 100% (5600/5600) (classification)
+Accuracy = 17.4583% (419/2400) (classification)
+Test accuracy= (17.458333333333336, 12.22625, 0.11105010414008007)
+C=3,gamma=2,kernaltype=2,degree=2
+Accuracy = 100% (5600/5600) (classification)
+Accuracy = 17.4583% (419/2400) (classification)
+Test accuracy= (17.458333333333336, 12.22625, 0.11105010414008007)
+C=3,gamma=2,kernaltype=2,degree=3
+Accuracy = 100% (5600/5600) (classification)
+Accuracy = 17.4583% (419/2400) (classification)
+Test accuracy= (17.458333333333336, 12.22625, 0.11105010414008007)
+C=3,gamma=2,kernaltype=2,degree=4
+Accuracy = 100% (5600/5600) (classification)
+Accuracy = 17.4583% (419/2400) (classification)
+Test accuracy= (17.458333333333336, 12.22625, 0.11105010414008007)
+C=3,gamma=2,kernaltype=2,degree=5
+Accuracy = 100% (5600/5600) (classification)
+Accuracy = 17.4583% (419/2400) (classification)
+Test accuracy= (17.458333333333336, 12.22625, 0.11105010414008007)
+C=3,gamma=2,kernaltype=2,degree=6
+Accuracy = 100% (5600/5600) (classification)
+Accuracy = 17.4583% (419/2400) (classification)
+Test accuracy= (17.458333333333336, 12.22625, 0.11105010414008007)
+C=3,gamma=2,kernaltype=2,degree=7
+Accuracy = 100% (5600/5600) (classification)
+Accuracy = 17.4583% (419/2400) (classification)
+Test accuracy= (17.458333333333336, 12.22625, 0.11105010414008007)
+C=3,gamma=2,kernaltype=3,degree=1
+Accuracy = 26.625% (1491/5600) (classification)
+Accuracy = 27.9167% (670/2400) (classification)
+Test accuracy= (27.916666666666668, 14.074166666666667, 0.039214030767014844)
+C=3,gamma=2,kernaltype=3,degree=2
+Accuracy = 26.625% (1491/5600) (classification)
+Accuracy = 27.9167% (670/2400) (classification)
+Test accuracy= (27.916666666666668, 14.074166666666667, 0.039214030767014844)
+C=3,gamma=2,kernaltype=3,degree=3
+Accuracy = 26.625% (1491/5600) (classification)
+Accuracy = 27.9167% (670/2400) (classification)
+Test accuracy= (27.916666666666668, 14.074166666666667, 0.039214030767014844)
+C=3,gamma=2,kernaltype=3,degree=4
+Accuracy = 26.625% (1491/5600) (classification)
+Accuracy = 27.9167% (670/2400) (classification)
+Test accuracy= (27.916666666666668, 14.074166666666667, 0.039214030767014844)
+C=3,gamma=2,kernaltype=3,degree=5
+Accuracy = 26.625% (1491/5600) (classification)
+Accuracy = 27.9167% (670/2400) (classification)
+Test accuracy= (27.916666666666668, 14.074166666666667, 0.039214030767014844)
+C=3,gamma=2,kernaltype=3,degree=6
+Accuracy = 26.625% (1491/5600) (classification)
+Accuracy = 27.9167% (670/2400) (classification)
+Test accuracy= (27.916666666666668, 14.074166666666667, 0.039214030767014844)
+C=3,gamma=2,kernaltype=3,degree=7
+Accuracy = 26.625% (1491/5600) (classification)
+Accuracy = 27.9167% (670/2400) (classification)
+Test accuracy= (27.916666666666668, 14.074166666666667, 0.039214030767014844)
+C=3,gamma=3,kernaltype=0,degree=1
+Accuracy = 93.7857% (5252/5600) (classification)
+Accuracy = 90.875% (2181/2400) (classification)
+Test accuracy= (90.875, 1.6508333333333334, 0.8144980399669767)
+C=3,gamma=3,kernaltype=0,degree=2
+Accuracy = 93.7857% (5252/5600) (classification)
+Accuracy = 90.875% (2181/2400) (classification)
+Test accuracy= (90.875, 1.6508333333333334, 0.8144980399669767)
+C=3,gamma=3,kernaltype=0,degree=3
+Accuracy = 93.7857% (5252/5600) (classification)
+Accuracy = 90.875% (2181/2400) (classification)
+Test accuracy= (90.875, 1.6508333333333334, 0.8144980399669767)
+C=3,gamma=3,kernaltype=0,degree=4
+Accuracy = 93.7857% (5252/5600) (classification)
+Accuracy = 90.875% (2181/2400) (classification)
+Test accuracy= (90.875, 1.6508333333333334, 0.8144980399669767)
+C=3,gamma=3,kernaltype=0,degree=5
+Accuracy = 93.7857% (5252/5600) (classification)
+Accuracy = 90.875% (2181/2400) (classification)
+Test accuracy= (90.875, 1.6508333333333334, 0.8144980399669767)
+C=3,gamma=3,kernaltype=0,degree=6
+Accuracy = 93.7857% (5252/5600) (classification)
+Accuracy = 90.875% (2181/2400) (classification)
+Test accuracy= (90.875, 1.6508333333333334, 0.8144980399669767)
+C=3,gamma=3,kernaltype=0,degree=7
+Accuracy = 93.7857% (5252/5600) (classification)
+Accuracy = 90.875% (2181/2400) (classification)
+Test accuracy= (90.875, 1.6508333333333334, 0.8144980399669767)
+C=3,gamma=3,kernaltype=1,degree=1
+Accuracy = 94.0893% (5269/5600) (classification)
+Accuracy = 90.625% (2175/2400) (classification)
+Test accuracy= (90.625, 1.5825, 0.8215070121000133)
+C=3,gamma=3,kernaltype=1,degree=2
+Accuracy = 100% (5600/5600) (classification)
+Accuracy = 93.9167% (2254/2400) (classification)
+Test accuracy= (93.91666666666667, 1.22625, 0.8611846017835733)
+C=3,gamma=3,kernaltype=1,degree=3
+Accuracy = 100% (5600/5600) (classification)
+Accuracy = 94.875% (2277/2400) (classification)
+Test accuracy= (94.875, 0.93375, 0.8932509974373548)
+C=3,gamma=3,kernaltype=1,degree=4
+Accuracy = 100% (5600/5600) (classification)
+Accuracy = 93.9583% (2255/2400) (classification)
+Test accuracy= (93.95833333333333, 1.0420833333333333, 0.881558595314395)
+C=3,gamma=3,kernaltype=1,degree=5
+Accuracy = 100% (5600/5600) (classification)
+Accuracy = 94.0417% (2257/2400) (classification)
+Test accuracy= (94.04166666666667, 1.1091666666666666, 0.8749892854678618)
+C=3,gamma=3,kernaltype=1,degree=6
+Accuracy = 100% (5600/5600) (classification)
+Accuracy = 91.5% (2196/2400) (classification)
+Test accuracy= (91.5, 1.4991666666666668, 0.8337122266478244)
+C=3,gamma=3,kernaltype=1,degree=7
+Accuracy = 100% (5600/5600) (classification)
+Accuracy = 90.625% (2175/2400) (classification)
+Test accuracy= (90.625, 1.7525, 0.8085826366189424)
+C=3,gamma=3,kernaltype=2,degree=1
+Accuracy = 100% (5600/5600) (classification)
+Accuracy = 10.5% (252/2400) (classification)
+Test accuracy= (10.5, 20.63625, nan)
+C=3,gamma=3,kernaltype=2,degree=2
+Accuracy = 100% (5600/5600) (classification)
+Accuracy = 10.5% (252/2400) (classification)
+Test accuracy= (10.5, 20.63625, nan)
+C=3,gamma=3,kernaltype=2,degree=3
+Accuracy = 100% (5600/5600) (classification)
+Accuracy = 10.5% (252/2400) (classification)
+Test accuracy= (10.5, 20.63625, nan)
+C=3,gamma=3,kernaltype=2,degree=4
+Accuracy = 100% (5600/5600) (classification)
+Accuracy = 10.5% (252/2400) (classification)
+Test accuracy= (10.5, 20.63625, nan)
+C=3,gamma=3,kernaltype=2,degree=5
+Accuracy = 100% (5600/5600) (classification)
+Accuracy = 10.5% (252/2400) (classification)
+Test accuracy= (10.5, 20.63625, nan)
+C=3,gamma=3,kernaltype=2,degree=6
+Accuracy = 100% (5600/5600) (classification)
+Accuracy = 10.5% (252/2400) (classification)
+Test accuracy= (10.5, 20.63625, nan)
+C=3,gamma=3,kernaltype=2,degree=7
+Accuracy = 100% (5600/5600) (classification)
+Accuracy = 10.5% (252/2400) (classification)
+Test accuracy= (10.5, 20.63625, nan)
+C=3,gamma=3,kernaltype=3,degree=1
+Accuracy = 27.0179% (1513/5600) (classification)
+Accuracy = 28.4167% (682/2400) (classification)
+Test accuracy= (28.416666666666668, 13.585833333333333, 0.051789494635334964)
+C=3,gamma=3,kernaltype=3,degree=2
+Accuracy = 27.0179% (1513/5600) (classification)
+Accuracy = 28.4167% (682/2400) (classification)
+Test accuracy= (28.416666666666668, 13.585833333333333, 0.051789494635334964)
+C=3,gamma=3,kernaltype=3,degree=3
+Accuracy = 27.0179% (1513/5600) (classification)
+Accuracy = 28.4167% (682/2400) (classification)
+Test accuracy= (28.416666666666668, 13.585833333333333, 0.051789494635334964)
+C=3,gamma=3,kernaltype=3,degree=4
+Accuracy = 27.0179% (1513/5600) (classification)
+Accuracy = 28.4167% (682/2400) (classification)
+Test accuracy= (28.416666666666668, 13.585833333333333, 0.051789494635334964)
+C=3,gamma=3,kernaltype=3,degree=5
+Accuracy = 27.0179% (1513/5600) (classification)
+Accuracy = 28.4167% (682/2400) (classification)
+Test accuracy= (28.416666666666668, 13.585833333333333, 0.051789494635334964)
+C=3,gamma=3,kernaltype=3,degree=6
+Accuracy = 27.0179% (1513/5600) (classification)
+Accuracy = 28.4167% (682/2400) (classification)
+Test accuracy= (28.416666666666668, 13.585833333333333, 0.051789494635334964)
+C=3,gamma=3,kernaltype=3,degree=7
+Accuracy = 27.0179% (1513/5600) (classification)
+Accuracy = 28.4167% (682/2400) (classification)
+Test accuracy= (28.416666666666668, 13.585833333333333, 0.051789494635334964)
+C=3,gamma=4,kernaltype=0,degree=1
+Accuracy = 93.7857% (5252/5600) (classification)
+Accuracy = 90.875% (2181/2400) (classification)
+Test accuracy= (90.875, 1.6508333333333334, 0.8144980399669767)
+C=3,gamma=4,kernaltype=0,degree=2
+Accuracy = 93.7857% (5252/5600) (classification)
+Accuracy = 90.875% (2181/2400) (classification)
+Test accuracy= (90.875, 1.6508333333333334, 0.8144980399669767)
+C=3,gamma=4,kernaltype=0,degree=3
+Accuracy = 93.7857% (5252/5600) (classification)
+Accuracy = 90.875% (2181/2400) (classification)
+Test accuracy= (90.875, 1.6508333333333334, 0.8144980399669767)
+C=3,gamma=4,kernaltype=0,degree=4
+Accuracy = 93.7857% (5252/5600) (classification)
+Accuracy = 90.875% (2181/2400) (classification)
+Test accuracy= (90.875, 1.6508333333333334, 0.8144980399669767)
+C=3,gamma=4,kernaltype=0,degree=5
+Accuracy = 93.7857% (5252/5600) (classification)
+Accuracy = 90.875% (2181/2400) (classification)
+Test accuracy= (90.875, 1.6508333333333334, 0.8144980399669767)
+C=3,gamma=4,kernaltype=0,degree=6
+Accuracy = 93.7857% (5252/5600) (classification)
+Accuracy = 90.875% (2181/2400) (classification)
+Test accuracy= (90.875, 1.6508333333333334, 0.8144980399669767)
+C=3,gamma=4,kernaltype=0,degree=7
+Accuracy = 93.7857% (5252/5600) (classification)
+Accuracy = 90.875% (2181/2400) (classification)
+Test accuracy= (90.875, 1.6508333333333334, 0.8144980399669767)
+C=3,gamma=4,kernaltype=1,degree=1
+Accuracy = 94.1964% (5275/5600) (classification)
+Accuracy = 90.6667% (2176/2400) (classification)
+Test accuracy= (90.66666666666666, 1.5854166666666667, 0.8212514932241483)
+C=3,gamma=4,kernaltype=1,degree=2
+Accuracy = 100% (5600/5600) (classification)
+Accuracy = 93.9167% (2254/2400) (classification)
+Test accuracy= (93.91666666666667, 1.22625, 0.8611846017835733)
+C=3,gamma=4,kernaltype=1,degree=3
+Accuracy = 100% (5600/5600) (classification)
+Accuracy = 94.875% (2277/2400) (classification)
+Test accuracy= (94.875, 0.93375, 0.8932509974373548)
+C=3,gamma=4,kernaltype=1,degree=4
+Accuracy = 100% (5600/5600) (classification)
+Accuracy = 93.9583% (2255/2400) (classification)
+Test accuracy= (93.95833333333333, 1.0420833333333333, 0.881558595314395)
+C=3,gamma=4,kernaltype=1,degree=5
+Accuracy = 100% (5600/5600) (classification)
+Accuracy = 94.0417% (2257/2400) (classification)
+Test accuracy= (94.04166666666667, 1.1091666666666666, 0.8749892854678618)
+C=3,gamma=4,kernaltype=1,degree=6
+Accuracy = 100% (5600/5600) (classification)
+Accuracy = 91.5% (2196/2400) (classification)
+Test accuracy= (91.5, 1.4991666666666668, 0.8337122266478244)
+C=3,gamma=4,kernaltype=1,degree=7
+Accuracy = 100% (5600/5600) (classification)
+Accuracy = 90.625% (2175/2400) (classification)
+Test accuracy= (90.625, 1.7525, 0.8085826366189424)
+C=3,gamma=4,kernaltype=2,degree=1
+Accuracy = 100% (5600/5600) (classification)
+Accuracy = 10.5% (252/2400) (classification)
+Test accuracy= (10.5, 20.63625, nan)
+C=3,gamma=4,kernaltype=2,degree=2
+Accuracy = 100% (5600/5600) (classification)
+Accuracy = 10.5% (252/2400) (classification)
+Test accuracy= (10.5, 20.63625, nan)
+C=3,gamma=4,kernaltype=2,degree=3
+Accuracy = 100% (5600/5600) (classification)
+Accuracy = 10.5% (252/2400) (classification)
+Test accuracy= (10.5, 20.63625, nan)
+C=3,gamma=4,kernaltype=2,degree=4
+Accuracy = 100% (5600/5600) (classification)
+Accuracy = 10.5% (252/2400) (classification)
+Test accuracy= (10.5, 20.63625, nan)
+C=3,gamma=4,kernaltype=2,degree=5
+Accuracy = 100% (5600/5600) (classification)
+Accuracy = 10.5% (252/2400) (classification)
+Test accuracy= (10.5, 20.63625, nan)
+C=3,gamma=4,kernaltype=2,degree=6
+Accuracy = 100% (5600/5600) (classification)
+Accuracy = 10.5% (252/2400) (classification)
+Test accuracy= (10.5, 20.63625, nan)
+C=3,gamma=4,kernaltype=2,degree=7
+Accuracy = 100% (5600/5600) (classification)
+Accuracy = 10.5% (252/2400) (classification)
+Test accuracy= (10.5, 20.63625, nan)
+C=3,gamma=4,kernaltype=3,degree=1
+Accuracy = 26.25% (1470/5600) (classification)
+Accuracy = 28.2917% (679/2400) (classification)
+Test accuracy= (28.291666666666664, 14.020416666666666, 0.04268240526603678)
+C=3,gamma=4,kernaltype=3,degree=2
+Accuracy = 26.25% (1470/5600) (classification)
+Accuracy = 28.2917% (679/2400) (classification)
+Test accuracy= (28.291666666666664, 14.020416666666666, 0.04268240526603678)
+C=3,gamma=4,kernaltype=3,degree=3
+Accuracy = 26.25% (1470/5600) (classification)
+Accuracy = 28.2917% (679/2400) (classification)
+Test accuracy= (28.291666666666664, 14.020416666666666, 0.04268240526603678)
+C=3,gamma=4,kernaltype=3,degree=4
+Accuracy = 26.25% (1470/5600) (classification)
+Accuracy = 28.2917% (679/2400) (classification)
+Test accuracy= (28.291666666666664, 14.020416666666666, 0.04268240526603678)
+C=3,gamma=4,kernaltype=3,degree=5
+Accuracy = 26.25% (1470/5600) (classification)
+Accuracy = 28.2917% (679/2400) (classification)
+Test accuracy= (28.291666666666664, 14.020416666666666, 0.04268240526603678)
+C=3,gamma=4,kernaltype=3,degree=6
+Accuracy = 26.25% (1470/5600) (classification)
+Accuracy = 28.2917% (679/2400) (classification)
+Test accuracy= (28.291666666666664, 14.020416666666666, 0.04268240526603678)
+C=3,gamma=4,kernaltype=3,degree=7
+Accuracy = 26.25% (1470/5600) (classification)
+Accuracy = 28.2917% (679/2400) (classification)
+Test accuracy= (28.291666666666664, 14.020416666666666, 0.04268240526603678)
+C=4,gamma=1,kernaltype=0,degree=1
+Accuracy = 94.0179% (5265/5600) (classification)
+Accuracy = 90.75% (2178/2400) (classification)
+Test accuracy= (90.75, 1.6029166666666668, 0.8192329744268777)
+C=4,gamma=1,kernaltype=0,degree=2
+Accuracy = 94.0179% (5265/5600) (classification)
+Accuracy = 90.75% (2178/2400) (classification)
+Test accuracy= (90.75, 1.6029166666666668, 0.8192329744268777)
+C=4,gamma=1,kernaltype=0,degree=3
+Accuracy = 94.0179% (5265/5600) (classification)
+Accuracy = 90.75% (2178/2400) (classification)
+Test accuracy= (90.75, 1.6029166666666668, 0.8192329744268777)
+C=4,gamma=1,kernaltype=0,degree=4
+Accuracy = 94.0179% (5265/5600) (classification)
+Accuracy = 90.75% (2178/2400) (classification)
+Test accuracy= (90.75, 1.6029166666666668, 0.8192329744268777)
+C=4,gamma=1,kernaltype=0,degree=5
+Accuracy = 94.0179% (5265/5600) (classification)
+Accuracy = 90.75% (2178/2400) (classification)
+Test accuracy= (90.75, 1.6029166666666668, 0.8192329744268777)
+C=4,gamma=1,kernaltype=0,degree=6
+Accuracy = 94.0179% (5265/5600) (classification)
+Accuracy = 90.75% (2178/2400) (classification)
+Test accuracy= (90.75, 1.6029166666666668, 0.8192329744268777)
+C=4,gamma=1,kernaltype=0,degree=7
+Accuracy = 94.0179% (5265/5600) (classification)
+Accuracy = 90.75% (2178/2400) (classification)
+Test accuracy= (90.75, 1.6029166666666668, 0.8192329744268777)
+C=4,gamma=1,kernaltype=1,degree=1
+Accuracy = 94.0536% (5267/5600) (classification)
+Accuracy = 90.7083% (2177/2400) (classification)
+Test accuracy= (90.70833333333333, 1.57875, 0.8218325691383961)
+C=4,gamma=1,kernaltype=1,degree=2
+Accuracy = 100% (5600/5600) (classification)
+Accuracy = 93.9167% (2254/2400) (classification)
+Test accuracy= (93.91666666666667, 1.22625, 0.8611846017835733)
+C=4,gamma=1,kernaltype=1,degree=3
+Accuracy = 100% (5600/5600) (classification)
+Accuracy = 94.875% (2277/2400) (classification)
+Test accuracy= (94.875, 0.93375, 0.8932509974373548)
+C=4,gamma=1,kernaltype=1,degree=4
+Accuracy = 100% (5600/5600) (classification)
+Accuracy = 93.9583% (2255/2400) (classification)
+Test accuracy= (93.95833333333333, 1.0420833333333333, 0.881558595314395)
+C=4,gamma=1,kernaltype=1,degree=5
+Accuracy = 100% (5600/5600) (classification)
+Accuracy = 94.0417% (2257/2400) (classification)
+Test accuracy= (94.04166666666667, 1.1091666666666666, 0.8749892854678618)
+C=4,gamma=1,kernaltype=1,degree=6
+Accuracy = 100% (5600/5600) (classification)
+Accuracy = 91.5% (2196/2400) (classification)
+Test accuracy= (91.5, 1.4991666666666668, 0.8337122266478244)
+C=4,gamma=1,kernaltype=1,degree=7
+Accuracy = 100% (5600/5600) (classification)
+Accuracy = 90.625% (2175/2400) (classification)
+Test accuracy= (90.625, 1.7525, 0.8085826366189424)
+C=4,gamma=1,kernaltype=2,degree=1
+Accuracy = 100% (5600/5600) (classification)
+Accuracy = 17.7083% (425/2400) (classification)
+Test accuracy= (17.708333333333336, 12.188333333333333, 0.11254837033963241)
+C=4,gamma=1,kernaltype=2,degree=2
+Accuracy = 100% (5600/5600) (classification)
+Accuracy = 17.7083% (425/2400) (classification)
+Test accuracy= (17.708333333333336, 12.188333333333333, 0.11254837033963241)
+C=4,gamma=1,kernaltype=2,degree=3
+Accuracy = 100% (5600/5600) (classification)
+Accuracy = 17.7083% (425/2400) (classification)
+Test accuracy= (17.708333333333336, 12.188333333333333, 0.11254837033963241)
+C=4,gamma=1,kernaltype=2,degree=4
+Accuracy = 100% (5600/5600) (classification)
+Accuracy = 17.7083% (425/2400) (classification)
+Test accuracy= (17.708333333333336, 12.188333333333333, 0.11254837033963241)
+C=4,gamma=1,kernaltype=2,degree=5
+Accuracy = 100% (5600/5600) (classification)
+Accuracy = 17.7083% (425/2400) (classification)
+Test accuracy= (17.708333333333336, 12.188333333333333, 0.11254837033963241)
+C=4,gamma=1,kernaltype=2,degree=6
+Accuracy = 100% (5600/5600) (classification)
+Accuracy = 17.7083% (425/2400) (classification)
+Test accuracy= (17.708333333333336, 12.188333333333333, 0.11254837033963241)
+C=4,gamma=1,kernaltype=2,degree=7
+Accuracy = 100% (5600/5600) (classification)
+Accuracy = 17.7083% (425/2400) (classification)
+Test accuracy= (17.708333333333336, 12.188333333333333, 0.11254837033963241)
+C=4,gamma=1,kernaltype=3,degree=1
+Accuracy = 26.625% (1491/5600) (classification)
+Accuracy = 28.5% (684/2400) (classification)
+Test accuracy= (28.499999999999996, 13.454166666666667, 0.0560411026647822)
+C=4,gamma=1,kernaltype=3,degree=2
+Accuracy = 26.625% (1491/5600) (classification)
+Accuracy = 28.5% (684/2400) (classification)
+Test accuracy= (28.499999999999996, 13.454166666666667, 0.0560411026647822)
+C=4,gamma=1,kernaltype=3,degree=3
+Accuracy = 26.625% (1491/5600) (classification)
+Accuracy = 28.5% (684/2400) (classification)
+Test accuracy= (28.499999999999996, 13.454166666666667, 0.0560411026647822)
+C=4,gamma=1,kernaltype=3,degree=4
+Accuracy = 26.625% (1491/5600) (classification)
+Accuracy = 28.5% (684/2400) (classification)
+Test accuracy= (28.499999999999996, 13.454166666666667, 0.0560411026647822)
+C=4,gamma=1,kernaltype=3,degree=5
+Accuracy = 26.625% (1491/5600) (classification)
+Accuracy = 28.5% (684/2400) (classification)
+Test accuracy= (28.499999999999996, 13.454166666666667, 0.0560411026647822)
+C=4,gamma=1,kernaltype=3,degree=6
+Accuracy = 26.625% (1491/5600) (classification)
+Accuracy = 28.5% (684/2400) (classification)
+Test accuracy= (28.499999999999996, 13.454166666666667, 0.0560411026647822)
+C=4,gamma=1,kernaltype=3,degree=7
+Accuracy = 26.625% (1491/5600) (classification)
+Accuracy = 28.5% (684/2400) (classification)
+Test accuracy= (28.499999999999996, 13.454166666666667, 0.0560411026647822)
+C=4,gamma=2,kernaltype=0,degree=1
+Accuracy = 94.0179% (5265/5600) (classification)
+Accuracy = 90.75% (2178/2400) (classification)
+Test accuracy= (90.75, 1.6029166666666668, 0.8192329744268777)
+C=4,gamma=2,kernaltype=0,degree=2
+Accuracy = 94.0179% (5265/5600) (classification)
+Accuracy = 90.75% (2178/2400) (classification)
+Test accuracy= (90.75, 1.6029166666666668, 0.8192329744268777)
+C=4,gamma=2,kernaltype=0,degree=3
+Accuracy = 94.0179% (5265/5600) (classification)
+Accuracy = 90.75% (2178/2400) (classification)
+Test accuracy= (90.75, 1.6029166666666668, 0.8192329744268777)
+C=4,gamma=2,kernaltype=0,degree=4
+Accuracy = 94.0179% (5265/5600) (classification)
+Accuracy = 90.75% (2178/2400) (classification)
+Test accuracy= (90.75, 1.6029166666666668, 0.8192329744268777)
+C=4,gamma=2,kernaltype=0,degree=5
+Accuracy = 94.0179% (5265/5600) (classification)
+Accuracy = 90.75% (2178/2400) (classification)
+Test accuracy= (90.75, 1.6029166666666668, 0.8192329744268777)
+C=4,gamma=2,kernaltype=0,degree=6
+Accuracy = 94.0179% (5265/5600) (classification)
+Accuracy = 90.75% (2178/2400) (classification)
+Test accuracy= (90.75, 1.6029166666666668, 0.8192329744268777)
+C=4,gamma=2,kernaltype=0,degree=7
+Accuracy = 94.0179% (5265/5600) (classification)
+Accuracy = 90.75% (2178/2400) (classification)
+Test accuracy= (90.75, 1.6029166666666668, 0.8192329744268777)
+C=4,gamma=2,kernaltype=1,degree=1
+Accuracy = 94.0893% (5269/5600) (classification)
+Accuracy = 90.625% (2175/2400) (classification)
+Test accuracy= (90.625, 1.5825, 0.8215070121000133)
+C=4,gamma=2,kernaltype=1,degree=2
+Accuracy = 100% (5600/5600) (classification)
+Accuracy = 93.9167% (2254/2400) (classification)
+Test accuracy= (93.91666666666667, 1.22625, 0.8611846017835733)
+C=4,gamma=2,kernaltype=1,degree=3
+Accuracy = 100% (5600/5600) (classification)
+Accuracy = 94.875% (2277/2400) (classification)
+Test accuracy= (94.875, 0.93375, 0.8932509974373548)
+C=4,gamma=2,kernaltype=1,degree=4
+Accuracy = 100% (5600/5600) (classification)
+Accuracy = 93.9583% (2255/2400) (classification)
+Test accuracy= (93.95833333333333, 1.0420833333333333, 0.881558595314395)
+C=4,gamma=2,kernaltype=1,degree=5
+Accuracy = 100% (5600/5600) (classification)
+Accuracy = 94.0417% (2257/2400) (classification)
+Test accuracy= (94.04166666666667, 1.1091666666666666, 0.8749892854678618)
+C=4,gamma=2,kernaltype=1,degree=6
+Accuracy = 100% (5600/5600) (classification)
+Accuracy = 91.5% (2196/2400) (classification)
+Test accuracy= (91.5, 1.4991666666666668, 0.8337122266478244)
+C=4,gamma=2,kernaltype=1,degree=7
+Accuracy = 100% (5600/5600) (classification)
+Accuracy = 90.625% (2175/2400) (classification)
+Test accuracy= (90.625, 1.7525, 0.8085826366189424)
+C=4,gamma=2,kernaltype=2,degree=1
+Accuracy = 100% (5600/5600) (classification)
+Accuracy = 17.4583% (419/2400) (classification)
+Test accuracy= (17.458333333333336, 12.22625, 0.11105010414008007)
+C=4,gamma=2,kernaltype=2,degree=2
+Accuracy = 100% (5600/5600) (classification)
+Accuracy = 17.4583% (419/2400) (classification)
+Test accuracy= (17.458333333333336, 12.22625, 0.11105010414008007)
+C=4,gamma=2,kernaltype=2,degree=3
+Accuracy = 100% (5600/5600) (classification)
+Accuracy = 17.4583% (419/2400) (classification)
+Test accuracy= (17.458333333333336, 12.22625, 0.11105010414008007)
+C=4,gamma=2,kernaltype=2,degree=4
+Accuracy = 100% (5600/5600) (classification)
+Accuracy = 17.4583% (419/2400) (classification)
+Test accuracy= (17.458333333333336, 12.22625, 0.11105010414008007)
+C=4,gamma=2,kernaltype=2,degree=5
+Accuracy = 100% (5600/5600) (classification)
+Accuracy = 17.4583% (419/2400) (classification)
+Test accuracy= (17.458333333333336, 12.22625, 0.11105010414008007)
+C=4,gamma=2,kernaltype=2,degree=6
+Accuracy = 100% (5600/5600) (classification)
+Accuracy = 17.4583% (419/2400) (classification)
+Test accuracy= (17.458333333333336, 12.22625, 0.11105010414008007)
+C=4,gamma=2,kernaltype=2,degree=7
+Accuracy = 100% (5600/5600) (classification)
+Accuracy = 17.4583% (419/2400) (classification)
+Test accuracy= (17.458333333333336, 12.22625, 0.11105010414008007)
+C=4,gamma=2,kernaltype=3,degree=1
+Accuracy = 26.6071% (1490/5600) (classification)
+Accuracy = 27.625% (663/2400) (classification)
+Test accuracy= (27.625, 13.877916666666666, 0.043451032485881856)
+C=4,gamma=2,kernaltype=3,degree=2
+Accuracy = 26.6071% (1490/5600) (classification)
+Accuracy = 27.625% (663/2400) (classification)
+Test accuracy= (27.625, 13.877916666666666, 0.043451032485881856)
+C=4,gamma=2,kernaltype=3,degree=3
+Accuracy = 26.6071% (1490/5600) (classification)
+Accuracy = 27.625% (663/2400) (classification)
+Test accuracy= (27.625, 13.877916666666666, 0.043451032485881856)
+C=4,gamma=2,kernaltype=3,degree=4
+Accuracy = 26.6071% (1490/5600) (classification)
+Accuracy = 27.625% (663/2400) (classification)
+Test accuracy= (27.625, 13.877916666666666, 0.043451032485881856)
+C=4,gamma=2,kernaltype=3,degree=5
+Accuracy = 26.6071% (1490/5600) (classification)
+Accuracy = 27.625% (663/2400) (classification)
+Test accuracy= (27.625, 13.877916666666666, 0.043451032485881856)
+C=4,gamma=2,kernaltype=3,degree=6
+Accuracy = 26.6071% (1490/5600) (classification)
+Accuracy = 27.625% (663/2400) (classification)
+Test accuracy= (27.625, 13.877916666666666, 0.043451032485881856)
+C=4,gamma=2,kernaltype=3,degree=7
+Accuracy = 26.6071% (1490/5600) (classification)
+Accuracy = 27.625% (663/2400) (classification)
+Test accuracy= (27.625, 13.877916666666666, 0.043451032485881856)
+C=4,gamma=3,kernaltype=0,degree=1
+Accuracy = 94.0179% (5265/5600) (classification)
+Accuracy = 90.75% (2178/2400) (classification)
+Test accuracy= (90.75, 1.6029166666666668, 0.8192329744268777)
+C=4,gamma=3,kernaltype=0,degree=2
+Accuracy = 94.0179% (5265/5600) (classification)
+Accuracy = 90.75% (2178/2400) (classification)
+Test accuracy= (90.75, 1.6029166666666668, 0.8192329744268777)
+C=4,gamma=3,kernaltype=0,degree=3
+Accuracy = 94.0179% (5265/5600) (classification)
+Accuracy = 90.75% (2178/2400) (classification)
+Test accuracy= (90.75, 1.6029166666666668, 0.8192329744268777)
+C=4,gamma=3,kernaltype=0,degree=4
+Accuracy = 94.0179% (5265/5600) (classification)
+Accuracy = 90.75% (2178/2400) (classification)
+Test accuracy= (90.75, 1.6029166666666668, 0.8192329744268777)
+C=4,gamma=3,kernaltype=0,degree=5
+Accuracy = 94.0179% (5265/5600) (classification)
+Accuracy = 90.75% (2178/2400) (classification)
+Test accuracy= (90.75, 1.6029166666666668, 0.8192329744268777)
+C=4,gamma=3,kernaltype=0,degree=6
+Accuracy = 94.0179% (5265/5600) (classification)
+Accuracy = 90.75% (2178/2400) (classification)
+Test accuracy= (90.75, 1.6029166666666668, 0.8192329744268777)
+C=4,gamma=3,kernaltype=0,degree=7
+Accuracy = 94.0179% (5265/5600) (classification)
+Accuracy = 90.75% (2178/2400) (classification)
+Test accuracy= (90.75, 1.6029166666666668, 0.8192329744268777)
+C=4,gamma=3,kernaltype=1,degree=1
+Accuracy = 94.1964% (5275/5600) (classification)
+Accuracy = 90.6667% (2176/2400) (classification)
+Test accuracy= (90.66666666666666, 1.5854166666666667, 0.8212514932241483)
+C=4,gamma=3,kernaltype=1,degree=2
+Accuracy = 100% (5600/5600) (classification)
+Accuracy = 93.9167% (2254/2400) (classification)
+Test accuracy= (93.91666666666667, 1.22625, 0.8611846017835733)
+C=4,gamma=3,kernaltype=1,degree=3
+Accuracy = 100% (5600/5600) (classification)
+Accuracy = 94.875% (2277/2400) (classification)
+Test accuracy= (94.875, 0.93375, 0.8932509974373548)
+C=4,gamma=3,kernaltype=1,degree=4
+Accuracy = 100% (5600/5600) (classification)
+Accuracy = 93.9583% (2255/2400) (classification)
+Test accuracy= (93.95833333333333, 1.0420833333333333, 0.881558595314395)
+C=4,gamma=3,kernaltype=1,degree=5
+Accuracy = 100% (5600/5600) (classification)
+Accuracy = 94.0417% (2257/2400) (classification)
+Test accuracy= (94.04166666666667, 1.1091666666666666, 0.8749892854678618)
+C=4,gamma=3,kernaltype=1,degree=6
+Accuracy = 100% (5600/5600) (classification)
+Accuracy = 91.5% (2196/2400) (classification)
+Test accuracy= (91.5, 1.4991666666666668, 0.8337122266478244)
+C=4,gamma=3,kernaltype=1,degree=7
+Accuracy = 100% (5600/5600) (classification)
+Accuracy = 90.625% (2175/2400) (classification)
+Test accuracy= (90.625, 1.7525, 0.8085826366189424)
+C=4,gamma=3,kernaltype=2,degree=1
+Accuracy = 100% (5600/5600) (classification)
+Accuracy = 10.5% (252/2400) (classification)
+Test accuracy= (10.5, 20.63625, nan)
+C=4,gamma=3,kernaltype=2,degree=2
+Accuracy = 100% (5600/5600) (classification)
+Accuracy = 10.5% (252/2400) (classification)
+Test accuracy= (10.5, 20.63625, nan)
+C=4,gamma=3,kernaltype=2,degree=3
+Accuracy = 100% (5600/5600) (classification)
+Accuracy = 10.5% (252/2400) (classification)
+Test accuracy= (10.5, 20.63625, nan)
+C=4,gamma=3,kernaltype=2,degree=4
+Accuracy = 100% (5600/5600) (classification)
+Accuracy = 10.5% (252/2400) (classification)
+Test accuracy= (10.5, 20.63625, nan)
+C=4,gamma=3,kernaltype=2,degree=5
+Accuracy = 100% (5600/5600) (classification)
+Accuracy = 10.5% (252/2400) (classification)
+Test accuracy= (10.5, 20.63625, nan)
+C=4,gamma=3,kernaltype=2,degree=6
+Accuracy = 100% (5600/5600) (classification)
+Accuracy = 10.5% (252/2400) (classification)
+Test accuracy= (10.5, 20.63625, nan)
+C=4,gamma=3,kernaltype=2,degree=7
+Accuracy = 100% (5600/5600) (classification)
+Accuracy = 10.5% (252/2400) (classification)
+Test accuracy= (10.5, 20.63625, nan)
+C=4,gamma=3,kernaltype=3,degree=1
+Accuracy = 26.8929% (1506/5600) (classification)
+Accuracy = 28.25% (678/2400) (classification)
+Test accuracy= (28.249999999999996, 13.436666666666667, 0.05301089840833054)
+C=4,gamma=3,kernaltype=3,degree=2
+Accuracy = 26.8929% (1506/5600) (classification)
+Accuracy = 28.25% (678/2400) (classification)
+Test accuracy= (28.249999999999996, 13.436666666666667, 0.05301089840833054)
+C=4,gamma=3,kernaltype=3,degree=3
+Accuracy = 26.8929% (1506/5600) (classification)
+Accuracy = 28.25% (678/2400) (classification)
+Test accuracy= (28.249999999999996, 13.436666666666667, 0.05301089840833054)
+C=4,gamma=3,kernaltype=3,degree=4
+Accuracy = 26.8929% (1506/5600) (classification)
+Accuracy = 28.25% (678/2400) (classification)
+Test accuracy= (28.249999999999996, 13.436666666666667, 0.05301089840833054)
+C=4,gamma=3,kernaltype=3,degree=5
+Accuracy = 26.8929% (1506/5600) (classification)
+Accuracy = 28.25% (678/2400) (classification)
+Test accuracy= (28.249999999999996, 13.436666666666667, 0.05301089840833054)
+C=4,gamma=3,kernaltype=3,degree=6
+Accuracy = 26.8929% (1506/5600) (classification)
+Accuracy = 28.25% (678/2400) (classification)
+Test accuracy= (28.249999999999996, 13.436666666666667, 0.05301089840833054)
+C=4,gamma=3,kernaltype=3,degree=7
+Accuracy = 26.8929% (1506/5600) (classification)
+Accuracy = 28.25% (678/2400) (classification)
+Test accuracy= (28.249999999999996, 13.436666666666667, 0.05301089840833054)
+C=4,gamma=4,kernaltype=0,degree=1
+Accuracy = 94.0179% (5265/5600) (classification)
+Accuracy = 90.75% (2178/2400) (classification)
+Test accuracy= (90.75, 1.6029166666666668, 0.8192329744268777)
+C=4,gamma=4,kernaltype=0,degree=2
+Accuracy = 94.0179% (5265/5600) (classification)
+Accuracy = 90.75% (2178/2400) (classification)
+Test accuracy= (90.75, 1.6029166666666668, 0.8192329744268777)
+C=4,gamma=4,kernaltype=0,degree=3
+Accuracy = 94.0179% (5265/5600) (classification)
+Accuracy = 90.75% (2178/2400) (classification)
+Test accuracy= (90.75, 1.6029166666666668, 0.8192329744268777)
+C=4,gamma=4,kernaltype=0,degree=4
+Accuracy = 94.0179% (5265/5600) (classification)
+Accuracy = 90.75% (2178/2400) (classification)
+Test accuracy= (90.75, 1.6029166666666668, 0.8192329744268777)
+C=4,gamma=4,kernaltype=0,degree=5
+Accuracy = 94.0179% (5265/5600) (classification)
+Accuracy = 90.75% (2178/2400) (classification)
+Test accuracy= (90.75, 1.6029166666666668, 0.8192329744268777)
+C=4,gamma=4,kernaltype=0,degree=6
+Accuracy = 94.0179% (5265/5600) (classification)
+Accuracy = 90.75% (2178/2400) (classification)
+Test accuracy= (90.75, 1.6029166666666668, 0.8192329744268777)
+C=4,gamma=4,kernaltype=0,degree=7
+Accuracy = 94.0179% (5265/5600) (classification)
+Accuracy = 90.75% (2178/2400) (classification)
+Test accuracy= (90.75, 1.6029166666666668, 0.8192329744268777)
+C=4,gamma=4,kernaltype=1,degree=1
+Accuracy = 94.2143% (5276/5600) (classification)
+Accuracy = 90.6667% (2176/2400) (classification)
+Test accuracy= (90.66666666666666, 1.5883333333333334, 0.8209703016278959)
+C=4,gamma=4,kernaltype=1,degree=2
+Accuracy = 100% (5600/5600) (classification)
+Accuracy = 93.9167% (2254/2400) (classification)
+Test accuracy= (93.91666666666667, 1.22625, 0.8611846017835733)
+C=4,gamma=4,kernaltype=1,degree=3
+Accuracy = 100% (5600/5600) (classification)
+Accuracy = 94.875% (2277/2400) (classification)
+Test accuracy= (94.875, 0.93375, 0.8932509974373548)
+C=4,gamma=4,kernaltype=1,degree=4
+Accuracy = 100% (5600/5600) (classification)
+Accuracy = 93.9583% (2255/2400) (classification)
+Test accuracy= (93.95833333333333, 1.0420833333333333, 0.881558595314395)
+C=4,gamma=4,kernaltype=1,degree=5
+Accuracy = 100% (5600/5600) (classification)
+Accuracy = 94.0417% (2257/2400) (classification)
+Test accuracy= (94.04166666666667, 1.1091666666666666, 0.8749892854678618)
+C=4,gamma=4,kernaltype=1,degree=6
+Accuracy = 100% (5600/5600) (classification)
+Accuracy = 91.5% (2196/2400) (classification)
+Test accuracy= (91.5, 1.4991666666666668, 0.8337122266478244)
+C=4,gamma=4,kernaltype=1,degree=7
+Accuracy = 100% (5600/5600) (classification)
+Accuracy = 90.625% (2175/2400) (classification)
+Test accuracy= (90.625, 1.7525, 0.8085826366189424)
+C=4,gamma=4,kernaltype=2,degree=1
+Accuracy = 100% (5600/5600) (classification)
+Accuracy = 10.5% (252/2400) (classification)
+Test accuracy= (10.5, 20.63625, nan)
+C=4,gamma=4,kernaltype=2,degree=2
+Accuracy = 100% (5600/5600) (classification)
+Accuracy = 10.5% (252/2400) (classification)
+Test accuracy= (10.5, 20.63625, nan)
+C=4,gamma=4,kernaltype=2,degree=3
+Accuracy = 100% (5600/5600) (classification)
+Accuracy = 10.5% (252/2400) (classification)
+Test accuracy= (10.5, 20.63625, nan)
+C=4,gamma=4,kernaltype=2,degree=4
+Accuracy = 100% (5600/5600) (classification)
+Accuracy = 10.5% (252/2400) (classification)
+Test accuracy= (10.5, 20.63625, nan)
+C=4,gamma=4,kernaltype=2,degree=5
+Accuracy = 100% (5600/5600) (classification)
+Accuracy = 10.5% (252/2400) (classification)
+Test accuracy= (10.5, 20.63625, nan)
+C=4,gamma=4,kernaltype=2,degree=6
+Accuracy = 100% (5600/5600) (classification)
+Accuracy = 10.5% (252/2400) (classification)
+Test accuracy= (10.5, 20.63625, nan)
+C=4,gamma=4,kernaltype=2,degree=7
+Accuracy = 100% (5600/5600) (classification)
+Accuracy = 10.5% (252/2400) (classification)
+Test accuracy= (10.5, 20.63625, nan)
+C=4,gamma=4,kernaltype=3,degree=1
+Accuracy = 25.9464% (1453/5600) (classification)
+Accuracy = 28.375% (681/2400) (classification)
+Test accuracy= (28.375, 13.9025, 0.04469260951447655)
+C=4,gamma=4,kernaltype=3,degree=2
+Accuracy = 25.9464% (1453/5600) (classification)
+Accuracy = 28.375% (681/2400) (classification)
+Test accuracy= (28.375, 13.9025, 0.04469260951447655)
+C=4,gamma=4,kernaltype=3,degree=3
+Accuracy = 25.9464% (1453/5600) (classification)
+Accuracy = 28.375% (681/2400) (classification)
+Test accuracy= (28.375, 13.9025, 0.04469260951447655)
+C=4,gamma=4,kernaltype=3,degree=4
+Accuracy = 25.9464% (1453/5600) (classification)
+Accuracy = 28.375% (681/2400) (classification)
+Test accuracy= (28.375, 13.9025, 0.04469260951447655)
+C=4,gamma=4,kernaltype=3,degree=5
+Accuracy = 25.9464% (1453/5600) (classification)
+Accuracy = 28.375% (681/2400) (classification)
+Test accuracy= (28.375, 13.9025, 0.04469260951447655)
+C=4,gamma=4,kernaltype=3,degree=6
+Accuracy = 25.9464% (1453/5600) (classification)
+Accuracy = 28.375% (681/2400) (classification)
+Test accuracy= (28.375, 13.9025, 0.04469260951447655)
+C=4,gamma=4,kernaltype=3,degree=7
+Accuracy = 25.9464% (1453/5600) (classification)
+Accuracy = 28.375% (681/2400) (classification)
+Test accuracy= (28.375, 13.9025, 0.04469260951447655)
+Time to Train(sec)= 3068.8593027591705
